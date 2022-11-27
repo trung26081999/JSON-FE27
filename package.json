@@ -1,0 +1,29 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanty113/fe23-json-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanty113/fe23-json-server/issues"
+  },
+  "homepage": "https://github.com/vanty113/fe23-json-server#readme",
+  "description": ""
+}

@@ -17,17 +17,57 @@
       "name": "Trung",
       "phone": "0905338174",
       "address": "QUANG NAM"
+    },
+    {
+      "email": "thoangtran20@gmail.com",
+      "password": "$2a$10$vwckr8Vi3aMJLwhwtf7UCOKLQGFaJcNYqHwsEcKSnMLfqWaM1Tn2G",
+      "id": 55,
+      "name": "unica",
+      "phone": "0918814325",
+      "address": ""
+    },
+    {
+      "email": "thoangtran29@gmail.com",
+      "password": "$2a$10$ux9iZ9MDTfMGqHarkgVbK.39akkJIk5jVzVAY9NiR9IGMXnhstgZi",
+      "id": 56,
+      "name": "thoangtran",
+      "phone": "0918814325",
+      "address": "Da Nang, Viet Nam"
+    },
+    {
+      "email": "trung26@gmail.com",
+      "password": "$2a$10$TZu7VL9I906Z98sIrn1gRusLcVWWhRnt7bIZXVVWCq9TBHVEyk4su",
+      "id": 57
+    },
+    {
+      "email": "vantrung@gmail.com",
+      "password": "$2a$10$JrPTNIaMG19riXVkFHBjcuAZm3WIGe2qbOVMf3SJHd.X7UusfTkLK",
+      "name": "Trung",
+      "id": 58
     }
   ],
   "products": [
     {
       "id": 1,
       "productName": "Reebok Classic Tape Jacket",
+      "quantity": 10,
       "type": "kidsclothing",
       "image": "https://www.tradeinn.com/h/13815/138155548/reebok-classic-tape-jacket.jpg",
       "price": 20,
-      "description": "",
-      "feature": "jackets"
+      "feature": "jackets",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 2,
@@ -35,553 +75,1580 @@
       "price": 19,
       "image": "https://www.tradeinn.com/h/13815/138155547/reebok-classic-tape-jacket.jpg",
       "type": "kidsclothing",
-      "feature": "jackets"
+      "feature": "jackets",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 3,
       "productName": "Hummel Core XK Spray Raincoat",
       "price": 41,
       "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 4,
       "productName": "Hummel Core XK Spray Raincoat",
       "price": 32,
       "image": "https://www.tradeinn.com/h/13872/138728786/hummel-core-xk-spray-raincoat.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 5,
       "productName": "Joma Rain Alaska II Jacket",
       "price": 5,
       "image": "https://www.tradeinn.com/h/131/1312916/joma-rain-alaska-ii-jacket.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 6,
       "productName": "Joma Alaska II Jacket",
       "price": 93,
       "image": "https://www.tradeinn.com/h/131/1311033/joma-alaska-ii-jacket.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 7,
       "productName": "Uhlsport Essential Coach Jacket",
       "price": 19,
       "image": "https://www.tradeinn.com/h/13670/136709091/uhlsport-essential-coach-jacket.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 8,
       "productName": "Uhlsport Essential Jacket",
       "price": 44,
       "image": "https://www.tradeinn.com/h/13739/137395753/uhlsport-essential-jacket.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 9,
       "productName": "adidas Core 18 Jacket",
       "price": 37,
       "image": "https://www.tradeinn.com/h/13669/136697805/adidas-core-18-jacket.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 10,
       "productName": "adidas Core 18 Jacket",
       "price": 87,
       "image": "https://www.tradeinn.com/h/13669/136698545/adidas-core-18-jacket.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 11,
       "productName": "Craft Fuseknit Comfort Long Pants",
       "price": 30,
       "image": "https://www.tradeinn.com/h/13809/138091724/craft-fuseknit-comfort-long-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 12,
       "productName": "Craft Fuseknit Comfort Long Pants",
       "price": 40,
       "image": "https://www.tradeinn.com/h/13809/138091723/craft-fuseknit-comfort-long-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 13,
       "productName": "CMP Stretch Long Pants",
       "price": 90,
       "image": "https://www.tradeinn.com/h/13691/136913825/cmp-stretch-long-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 14,
       "productName": "CMP Bermuda 38D8764 Shorts",
       "price": 53,
       "image": "https://www.tradeinn.com/h/13691/136913845/cmp-bermuda-38d8764-shorts.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 15,
       "productName": "Uhlsport Anatomic Goalkeeper Long Pants",
       "price": 40,
       "image": "https://www.tradeinn.com/h/13695/136959030/uhlsport-anatomic-goalkeeper-long-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 16,
       "productName": "Uhlsport Basic Goalkeeper Short Pants",
       "price": 19,
       "image": "https://www.tradeinn.com/h/12/121478/uhlsport-basic-goalkeeper-short-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 17,
       "productName": "Joma Protect Short Pants",
       "price": 8,
       "image": "https://www.tradeinn.com/h/110/1109138/joma-protect-short-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 18,
       "productName": "Joma Nobel Short Pants",
       "price": 32,
       "image": "https://www.tradeinn.com/h/131/1311128/joma-nobel-short-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 5,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.6
     },
     {
       "id": 19,
       "productName": "Reebok Teen Long Pants",
       "price": 40,
       "image": "https://www.tradeinn.com/h/13762/137627460/reebok-teen-long-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 5,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.6
     },
     {
       "id": 20,
       "productName": "Reebok Teen Long Pants",
       "price": 33,
       "image": "https://www.tradeinn.com/h/13762/137627458/reebok-teen-long-pants.jpg",
-      "type": "kidsclothing"
+      "type": "kidsclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 5,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.6
     },
     {
       "id": 21,
       "productName": "Joma Running Night Half Zip Fleece",
       "price": 23,
       "image": "https://www.tradeinn.com/h/13901/139018700/joma-running-night-half-zip-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 22,
       "productName": "Joma Running Night Half Zip Fleece",
       "price": 65,
       "image": "https://www.tradeinn.com/h/13901/139018695/joma-running-night-half-zip-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 23,
       "productName": "Odlo Millennium Element ML Fleece",
       "price": 12,
       "image": "https://www.tradeinn.com/h/13750/137503208/odlo-millennium-element-ml-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 24,
       "productName": "Odlo Essential Ceramiwarm 1/2 Zip Fleece",
       "price": 48,
       "image": "https://www.tradeinn.com/h/13822/138222063/odlo-essential-ceramiwarm-1-2-zip-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 25,
       "productName": "Reebok Ow Fleece Q Fleece",
       "price": 3,
       "image": "https://www.tradeinn.com/h/13811/138116562/reebok-ow-fleece-q-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.6
     },
     {
       "id": 26,
       "productName": "Reebok Ow Fleece Q Fleece",
       "price": 14,
       "image": "https://www.tradeinn.com/h/13811/138116562/reebok-ow-fleece-q-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.6
     },
     {
       "id": 27,
       "productName": "Givova Half Zip Long Sleeve T-Shirt",
       "price": 54,
       "image": "https://www.tradeinn.com/h/13812/138127513/givova-half-zip-long-sleeve-t-shirt.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.6
     },
     {
       "id": 28,
       "productName": "Givova Half Zip Long Sleeve T-Shirt",
       "price": 9,
       "image": "https://www.tradeinn.com/h/13812/138127515/givova-half-zip-long-sleeve-t-shirt.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.7
     },
     {
       "id": 29,
       "productName": "Salomon Explorer Full Zip Fleece",
       "price": 85,
       "image": "https://www.tradeinn.com/h/13881/138813706/joma-explorer-full-zip-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.8
     },
     {
       "id": 30,
       "productName": "Salomon Explorer Full Zip Fleece",
       "price": 7,
       "image": "https://www.tradeinn.com/h/13881/138813706/joma-explorer-full-zip-fleece.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.8
     },
     {
       "id": 31,
       "productName": "2XU Run Gloves",
       "price": 64,
       "image": "https://www.tradeinn.com/h/13823/138230980/2xu-run-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.8
     },
     {
       "id": 32,
       "productName": "2XU Run Gloves",
       "price": 24,
       "image": "https://www.tradeinn.com/h/13823/138230980/2xu-run-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.8
     },
     {
       "id": 33,
       "productName": "42k Running Premium Gloves",
       "price": 7,
       "image": "https://www.tradeinn.com/h/13822/138223329/42k-running-premium-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 3.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.2
     },
     {
       "id": 34,
       "productName": "42k Running Premium Gloves",
       "price": 69,
       "image": "https://www.tradeinn.com/h/13822/138223329/42k-running-premium-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 3.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.2
     },
     {
       "id": 35,
       "productName": "Asics Thermal Gloves",
       "price": 34,
       "image": "https://www.tradeinn.com/h/13762/137622105/asics-thermal-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 3.9,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.2
     },
     {
       "id": 36,
       "productName": "Asics Thermal Gloves",
       "price": 31,
       "image": "https://www.tradeinn.com/h/13762/137622105/asics-thermal-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4
     },
     {
       "id": 37,
       "productName": "Inov8 Race Elite Gloves",
       "price": 35,
       "image": "https://www.tradeinn.com/h/13762/137623487/inov8-race-elite-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4
     },
     {
       "id": 38,
       "productName": "Inov8 Race Elite Gloves",
       "price": 26,
       "image": "https://www.tradeinn.com/h/13762/137623487/inov8-race-elite-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.2,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4
     },
     {
       "id": 39,
       "productName": "Raidlight Trail Touch Gloves",
       "price": 98,
       "image": "https://www.tradeinn.com/h/13705/137059783/raidlight-trail-touch-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.2
     },
     {
       "id": 40,
       "productName": "Raidlight Trail Touch Gloves",
       "price": 4,
       "image": "https://www.tradeinn.com/h/13705/137059783/raidlight-trail-touch-gloves.jpg",
-      "type": "mensclothing"
+      "type": "mensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.2
     },
     {
       "id": 41,
       "productName": "Otso Skirt",
       "price": 14,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02670-84_V_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.3,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.2
     },
     {
       "id": 42,
       "productName": "Otso Skirt",
       "price": 92,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02628-20_V_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 43,
       "productName": "Zoot PCH Skirt",
       "price": 24,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02675-20_V_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 44,
       "productName": "Zoot PCH Skirt",
       "price": 61,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/s/a/sandro_sfpro02583-24_v_p.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 45,
       "productName": "Dynafit Alpine Pro 2 In 1 Skirt",
       "price": 53,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02648-20_V_P_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 46,
       "productName": "Dynafit Alpine Pro 2 In 1 Skirt",
       "price": 36,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02593-20_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 47,
       "productName": "La Sportiva Comet Skirt",
       "price": 92,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02539-MULT_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 48,
       "productName": "La Sportiva Comet Skirt",
       "price": 80,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02689-D284_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 49,
       "productName": "Buff ® Quant Hybrid Skirt",
       "price": 33,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02529-20_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 50,
       "productName": "Buff ® Quant Hybrid Skirt",
       "price": 53,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02716-20_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 51,
       "productName": "Zoot Ltd Tri Aero Fz Short Sleeve Trisuit",
       "price": 85,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02705-MULT_V_1_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 52,
       "productName": "Zoot Ltd Tri Aero Fz Short Sleeve Trisuit",
       "price": 53,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02677-44_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 53,
       "productName": "Santini Ikaika Short Sleeve Trisuit",
       "price": 92,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02677-44_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 54,
       "productName": "Santini Ikaika Short Sleeve Trisuit",
       "price": 33,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02707-B279_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 55,
       "productName": "Castelli Sanremo 2 Short Sleeve Trisuit",
       "price": 33,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02704-B277_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 56,
       "productName": "Castelli Sanremo 2 Short Sleeve Trisuit",
       "price": 52,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02699-20_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 57,
       "productName": "Sailfish Rebel Train 1 Swimskin",
       "price": 33,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02676-20_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 58,
       "productName": "Sailfish Rebel Train 1 Swimskin",
       "price": 48,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPRO02607-90_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 59,
       "productName": "Zone3 Revolution Short Sleeve Trisuit",
       "price": 33,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/s/a/sandro_sfpro02123-34_v_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 60,
       "productName": "Zone3 Revolution Short Sleeve Trisuit",
       "price": 67,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPCA00697-240_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 121,
       "productName": "Zone3 Revolution Short Sleeve Trisuit",
       "price": 67,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPCA00697-240_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 122,
       "productName": "Zone3 Revolution Short Sleeve Trisuit",
       "price": 67,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPPU01553-44_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 123,
       "productName": "Zone3 Revolution Short Sleeve Trisuit",
       "price": 67,
       "image": "https://sandro.com.vn/media/catalog/product/cache/a72dd292f5ebc7f905c5028ee744eec1/S/a/Sandro_SFPPU01701-40_V_1_1.jpg",
-      "type": "womensclothing"
+      "type": "womensclothing",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 61,
       "productName": "Reebok Royal Glide",
       "price": 20,
       "image": "https://www.tradeinn.com/h/13610/136108839/reebok-royal-glide.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 62,
       "productName": "Reebok Royal Glide Ripple Clip",
       "price": 93,
       "image": "https://www.tradeinn.com/h/13677/136777116/reebok-royal-glide-ripple-clip.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 63,
       "productName": "Adidas Run 70S Shoes",
       "price": 39,
       "image": "https://www.tradeinn.com/h/13842/138423846/adidas-70s-trainers.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 64,
       "productName": "Adidas Hoops 3.0 Trainers",
       "price": 24,
       "image": "https://www.tradeinn.com/h/13842/138426727/adidas-hoops-3.0-trainers.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 65,
       "productName": "Puma Evospeed Throw 9 Track Shoes",
       "price": 23,
       "image": "https://www.tradeinn.com/h/13852/138522269/puma-evospeed-throw-9-track-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 66,
       "productName": "Puma Evospeed Distance 9 Track Shoes",
       "price": 78,
       "image": "https://www.tradeinn.com/h/13852/138522245/puma-evospeed-distance-9-track-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 67,
       "productName": "Adidas Jumpstar Track Shoes",
       "price": 39,
       "image": "https://www.tradeinn.com/h/13842/138426904/adidas-jumpstar-track-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 68,
       "productName": "Adidas Sprintstar Track Shoes",
       "price": 80,
       "image": "https://www.tradeinn.com/h/13896/138961405/adidas-sprintstar-track-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 69,
       "productName": "Teva Hurricane XLT2 Sandals",
       "price": 38,
       "image": "https://www.tradeinn.com/h/13752/137524983/teva-hurricane-xlt2-sandals.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 70,
       "productName": "Teva Hurricane XLT2 Sandals",
       "price": 6,
       "image": "https://www.tradeinn.com/h/13683/136833633/teva-hurricane-xlt2-sandals.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 71,
       "productName": "adidas Terrex Sumra Sandals",
       "price": 3,
       "image": "https://www.tradeinn.com/h/13789/137892097/adidas-terrex-sumra-sandals.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 72,
       "productName": "Adidas Cyprex Ultra II Sandals",
       "price": 76,
       "image": "https://www.tradeinn.com/h/13842/138425370/adidas-cyprex-ultra-ii-sandals.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 73,
       "productName": "Nike Free Run 5.0 Running Shoes",
       "price": 27,
       "image": "https://www.tradeinn.com/h/13834/138345854/nike-free-run-5.0-running-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 74,
       "productName": "Nike Revolution 6 NN Running Shoes",
       "price": 41,
       "image": "https://www.tradeinn.com/h/13855/138556328/nike-revolution-6-nn-running-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 75,
       "productName": "Saucony Endorphin Speed 2 Running",
       "price": 28,
       "image": "https://www.tradeinn.com/h/13866/138668337/saucony-endorphin-speed-2-running-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 76,
       "productName": "Saucony Endorphin Speed 2 Running Shoes",
       "price": 56,
       "image": "https://www.tradeinn.com/h/13866/138668340/saucony-endorphin-speed-2-running-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 77,
       "productName": "Nike Wildhorse 7 Trail Running Shoes",
       "price": 44,
       "image": "https://www.tradeinn.com/h/13803/138030718/nike-wildhorse-7-trail-running-shoes.jpg",
-      "type": "menshoes"
+      "type": "menshoes",
+      "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "rating": 4.7,
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ],
+      "avgRating": 4.5
     },
     {
       "id": 78,
@@ -878,11 +1945,24 @@
       "type": "kidshoes"
     },
     {
-      "id": 120,
-      "productName": "Adidas Sprintstar Trail Running Shoes Kid",
-      "price": 34,
-      "image": "https://www.tradeinn.com/h/13842/138428936/adidas-sprintstar-track-shoes.jpg",
-      "type": "kidshoes"
+      "id": "a61bdb5d-8e51-419a-9022-1a9de123e8af",
+      "productName": "SNEAKER",
+      "type": "Womenshoes",
+      "price": "45",
+      "image": "data:image/jpeg;base64,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",
+      "description": "ádasdfasdfasdfasdfasdf",
+      "createdAt": 1669864614346,
+      "updateAt": 1669864614346
+    },
+    {
+      "id": "33c57eea-11a3-4b6d-9f7d-98a60ca3413a",
+      "productName": "trung",
+      "type": "kidsclothing",
+      "price": "200",
+      "image": "data:image/webp;base64,UklGRgTSAABXRUJQVlA4WAoAAAAoAAAAvwMADwQASUNDUKgBAAAAAAGobGNtcwIQAABtbnRyUkdCIFhZWiAH3AABABkAAwApADlhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAF9jcHJ0AAABTAAAAAx3dHB0AAABWAAAABRyWFlaAAABbAAAABRnWFlaAAABgAAAABRiWFlaAAABlAAAABRyVFJDAAABDAAAAEBnVFJDAAABDAAAAEBiVFJDAAABDAAAAEBkZXNjAAAAAAAAAAVjMmNpAAAAAAAAAAAAAAAAY3VydgAAAAAAAAAaAAAAywHJA2MFkghrC/YQPxVRGzQh8SmQMhg7kkYFUXdd7WtwegWJsZp8rGm/fdPD6TD//3RleHQAAAAAQ0MwAFhZWiAAAAAAAAD21gABAAAAANMtWFlaIAAAAAAAAG+iAAA49QAAA5BYWVogAAAAAAAAYpkAALeFAAAY2lhZWiAAAAAAAAAkoAAAD4QAALbPVlA4IHTPAADQawOdASrAAxAEPkkij0YioaEvIXDJkeAJCWlJX1sEV30zZR9hVNZtXF+5QL5x54zKI9bvNT/nv2j2T/Uf8V+x3RO5h/Vf/F/a/Jv/L/YbyyvLumrxa/4/Sn8tf+N5JX/G6bX+/9E38o9CP+6+n//w8HTecOa42KPcOh153L6PXU3nb8svT59ZnNu7zvvV177+9fQF8v/we+fzB/Qv4z/Oepz9W+cP1z+8/9v+89S/5v+ZP4/+W9sP+H4a/rn9t6DWNXblAO+dnzWPs//N/tPYP9G/yn/Y/0H5d/YZ/Mf61/rP8L+Svy//z/LQ/C/8L9z/dQ/w3/g/yfs5f+P+69cn2B/8f9h8G/7G/9L/HiX/fDQH4TFuUOB9y/9HemsHxyGdgtsLQlJ7wYoZSbzPJBbhqXez6xl0lgJkl2zLnZ473QrBPbcujk28rl+43SuLUIFsEwKgCTptj3Lju+KFCY5Uw6qovXkIHjvPT8kQid2ZgcOHHeeINDsiWSg8rhuJ0vaby4E0UB9Nz0frlWU2NhgNuir+YSiJAnzYYOAq1sBWQ1JEPJ0nr9Y6u4JV5j+kmFm0Bp9Fns1M451B1fxiM0pgdjslK4BbYXBMQwF4uiVqboZOuAZT4oscIFJUwdRiyK8m8OgHG9iOQLM3X3Jdx4l62fkwuBgiOqupaLTpWedE1Va90MJgIP5ekMstmZOWuI9OXay325KEnOWiTeAkJrt3ILNHbsgv3Jr63tEMCH9awTqPHRqclYamkaYWNo/CgY8WPhnzOB9iD51hECyx9p2PMj6RYI0kbRdl+XU8CKNolK7Vn8ly3xnSX38QlqAFEhpAH4/wZSr3o7bAF+nIyowJSCWqIsqWdvQAwFrmLu6VLGxAJ2kHQKUu33ukYdITrzOKLYTqdK8AQDO15X1Z25OroqllUf1/Ub2NexCqk2IMahTR22xhKvStGkpIp2czXvAGzsG7y2/GxUD9zgUXwuF90GEZY1iATzxvnZvNpuI5IPaymxF0KXwQj1cnGycxm4cqdXbyJpzf0eHm5E3tzJEitX3Tk5j4XDEgKggQwat7gKltzSoMAI4HUOuoRbBkI78JS8f8xY2Kgftmg3mOKRrmAqVFEkO/xWuFmw43BS/PblyAd2jUkV54TERjWSabzMoNg9NWTm599YGS88ER+nyDOIObplRUr+lbTC9A5cB97zhhWLf3tbhn0EQXFMktknJpZKK97cBN5INdNTvQ47z0/KgQ6ZZUmHLV2H7WWPtlTz0/U3QxJvm7nws15YTdbV7gfAIKwezzSLZra+Egydz22Q0yFs5B+8ge+yl7UU2TJzo0MN2Ck2eTe87/Ag6TNSMXTuW2qeFTci9yvGe0/XLrLoGni+HZFd2qrFOjc8iPpqB6hJ7PYshdk7OfbwsalDMeLmvggvnWwwF6JV+v3ZOnRFYAu5MrIUMCpvJsNRuz1gA3zikWmjc0qlubDl3/5cXqH8wvzHsSBEboSQPsbHMNkZ4eElZyLHRcizGOw1VkVsGMZTB7WVLGuyHHDt6Tx41+yCJsQCOZHSzs81YI+O7ESLkGzMAP047kNwuFXeJlQ/KDvtI+Lu8OFaREjurvPn6G83PFA+VWfclYqiEox9FkaacpmdubOuVnlO5kYDH1FpkagalqItJwqlAf0gTsm8amqVieKq8PiihNh9TRyZugoprxsNqLzmVySY9XbQPhIQNweuDBmhK1aXd3zVo1S2XxPxlc9d1gwjn1xmAtIoPa0XBjVrxA7PvN0DT4Nk7Knnp+HDt65QXYbUYbApvU35Rlz2cLOEe+hCVmcj6pPKCH9R1kT5S8F2itOpg35lyV89nrXs8Wv36ldftK/L66c0FtvEnJLjcR2Fj2vIe1kX38/yFO3j+rdnqlrGIBOypvABOylid7Ey54Fk2Zi7EMm+EEIOB/p9FHx3zzdwkefbLaOuZm2jEPmBE/XgT5M96jt2xY9qoDs1Md+q7qb4RrKB70Xcm7sell9k87NO0w8fdreIDWevSu9La5Y2IMstg4F0mipw4DP7W5PzzWa73Ihxs2CsfuEhilOH7uXOugFOR5nXEkUicwNfu9KQK6/skdhHaNuPd5blK6JeCNhEBiATsvq342SCCVy/bNainuhVkvK+R67x8/QhZU1OFBJQPiZbl3V5ExA/sRCHtseNsV8GCouoaCvZaYrSa4aFzwkF6VhvIEEvijHkmhZKtwPTqKiLSCErlvVLy3FJU2rOzdJbo11sm91Q6PQZ8DLCLitsqIEdFgG9WV+ombzi1e4JVeiVBpFRK3Gg0wF8Spm3PQGdiDgk3iKT8eYeep6F9exW6GN+Q00DgpGkoS4gJ2VPPT8sYp58D6oeeXV70F42+WEfOd/SlflEwX8F8WAie1vrRZ1TaLLyrAiNt21PtszyHaMJgf19/4DmZM+J9MJAE7IK1N+2oU6zxvqOFYYWoiypY2IBOvgZB7kMqV6qJ4dIH/W7A1VhbtlYXNoHhlj4K2/2K3rWvADKQ+TXT8aDjBuXvl2UqcZqE9cTBtpVMceKSp56fm7nRAq2Z4GfWduTsn3G+s9Pqe8CtYvCuxRKPCLkFkMy5Qbl9R76hzI7PtEREq4rhjd9ysNfV+Rg46JBeY1jmSwiJIayJZpGg4cRkWa5yxkjOzTqh3DlcPFJU89RDpU89UtYw/JYWIMiJ+IPr28Y4v72oZjb0Sq7KndiY9hV76gzYCiUG7in6pkqjh/v212uBlAaYNkv6LlNj1PPXIm6ErNIpYPnN+pD+LHteQ9s0FjDGLbcN52jrtRsyG64+Fw5iKLoi9qkSklllMM/6DfIrj9kD7Dk785DZiqPgPE0RXhF2H1/JSFgQyhNiHdXzED3RV6bE614l08d56eRBTz08sgU0kLko+6GEedDTNryinjccB8D/quH9/EGDB4Syc5gn4PuL8zpWn3OtH88hjX3Yfw4ogeg218aNae7DLkLx0AneczyS1LpUt1CbefYE5T8sakB26Toz7T2+Ho+7cWMhC7nkhsxLTNM2BOe5d9q6wYvYb/91VBhSXA9A27BVr7lwONqM88zwKaC4foXic/Kz5xFJLsfDvqwMppWNH1X5VHrJPzreFjFQP4K5up1Nt/oUsbOcLl0SalxqK7pRjVoamh+zayHXo27hbJskGbHVa5h6KYn7aMHdGg9d8Tkaun+anoTdHgUxrznLnl2P7l9RZCHgiJvUH4IrjYq3r+ml97hQhQDpx9el2Iz3ayqA1nsM0gTsqeen5YBTMPRP1l0YFs4bQheIxkFO0PpO8SaGMWrD9dV3j1ycObg/K+RJxJadcVutu1dEFdE/+OdT4gXghXA8Z4MAjf/2myxp69Q5gXIk+SYHjMyarCm6enwvgPaypY2KgftZUksw5hMYIl/n+YffERE7KaVaxbLnLchhjtyr4NCnVPKTfChdIUqCqZZbIdv8faa0yTbHLYYwyR3S+fGtauOwqWNqYqrQGCb8jfQutZJoaU2ymJPRBNiATsrTCa0FgkjJvCqzmZ8Eq8dBZEAcJ5KUyMIlWEZGfJeLSpDYYMvZpkGMw7CPCxfR9d6CG6xREYiRAhoqi4Slpf/Vnnollr5fPPY5zy1Xf6SqwXak/LaocOkUgPljExBCtUtQND7sg7HMf1QHc2yVlqysXukuI+SkQOyb9j+pE/uIMQHkkpm8iF0rOVH93buxllPYiznzXYuPM7kzzpvu6zlE56zlqrCih4E5shBAaFqlS4k9RNYRBMmxF4B4FJU89PyyrPT75t9BB1AMcyNrlaY3a7x+cvX5xg1sCwQ3uccGl0FEDcCIADNKdtOIrjNJGmLqiirW5Y3hxc+cuUi9wYuLtDxTKKTAjD/8d6FBBQeefZ2Xf8b7WRsksdpB+SHv+EZnUG5Yl+2Y8oqJQmL8j5op57csYgx56HGidMM5WfbUckh3BCvgEHocv3SHw8F8vRtYDxX1lzLCSziMn3kxncJ+m8oOrUK8WW2AughgWuPx3sSvU4I/4wdfwChq93zq0QreiewQpWx+eemO/MkPrT2P0pzupg75BjPthNYJrpvqdcIEALxm7RZUqdtH4KwmAU0llF2c3by3LAYWnB9E4z3MXMv7q24wRnkFkaqmGUmgAT8vHXJLDUKe7z6VyvmO/gC3VRtpsvWugfc0Ectm8xYT9wv8PkqVEY9ftJ0zGPOtNdwBaWsdQHZ+qztsR0L9Ny21q+FumMZHjtZUkTNvMIleCzT84Q1DdkPLjyILpRtBqPgDTVYdO8zluDkIiRsV3jhPEA5477zvBwTj/072rhmILLjj8JGLxrvU2YHrDcaQkvAaEaytrNfrduTXRY+MF1F9ZQbHRReXYihy/8nwfJ8gLn05P5a7z0/LGIBOypplUdQrWHp9pbrWy3WnR1Z0TeLnBOMihvTKeCwOHpw2iHAo+eJ0vQCXDxUvGwTBORHRMckN2LqipT4XCarcqysKjdqEWWF9pY6K7nt4TXI+MBLfzVnnsqXcT8guFpvi4W5xp1NwuXyPd56ffi7z0/J4dNa7pm52dsU6MC9yoax9XBmkExN87nm5RhwHTmVBVbwCQRRL/walrIboyoz62lvl2yoPa/yimr+HnhkS2UQcdebYDvXOxB/uC0MDIgbz0cHtHdhzTbImWLeAE7LGsOuahGQ/8U6nnqNI4rvPQxSmvFMbJx88FZdrHUbOsHT1lt1EQwmaIQPEyBTOzTmdIOshz2dXkVQ53mS5oslPSM3k6zSrNGZIwz6VloywAyU+GXP9SKUZxQct7X5hNt+lzavvy7wwOnxp4dtWDKJlAbNzgdgZUU9D+V9j7wD4pKni1PU+u48Br0F9aMg7tOFd4er6srklcsltBgWZ6qDDIyx4ddHmRY5h77+WeiaSkpVbO1pTj2U2E0WmsZwLfx6eZiBeC64/YS8b/fif5ETyxkOYH06nTPNSpA1YaiXDRG9YMGTVHrixi6ajnU0+2EOMqkC6WMnZU0PAXN+p7riklB09OAL/j+KYt2JD3sNmCvbKOFDA//vTuB3C5TkzdALFdmW7Qz0yQ2rzxcWHMO5lJzVv6gfWUske13K7ybXUyrG8PJgt5YnM7nDzqIfv5gE82TTNhMc1ODSwFCy2Ud/pcPnwLJU0ALVcubrBOyzBxslTdT15ZBkTn3fLPv5a5blRki5SURdiSfPhjNrKRVHJX85zCZoDXZe4uHd5Zv0M/ps8hpcJufBFWJCr3BrB3c0vkVY5FRn79E9OZ1Itp6YO+k1HvfEjLgzMO2ysWBVlQV0BBeKoBhApKnnqIccHMMFDGD0H6kbPGDPDdz9hsADGx3lcwIBHUUSamIouVS9XfcynKK4dj1G4tvD6TkcbgPxLX+WZ6D/qGpRbUurnXpNCJ+87FuokZBUtl3H2RW4p8nAsVH0fDNNNL2wiDpe2D4oteHUA0d561GM9O7GNV4Wb2/dW4rd0QuoUPvXhGjIiap86vZOOK0GZo1MF9LdiVx33Q/t0lsi74PEROX2LXpWHvj3+7VZ3X8P/F+1HnvQocNKWaohI2SQ4suvKLcRiKmFU+VVFx54tmEYMg6zEblH+1jSZdLVACpYzdNrjuI2bujKCT2lkH4NyaGLs+VTiu/RUTs8eqpWoPXgIgYdC+bkStSqfeQR9j4E7/mmcQp/GeVv9qEypaTTxEUzXPsOBMOYNObwW3++zaHCh0H7pOVAPo95mXaDAL04X9DpZfMKNYTx+WhR8YN57DG0sCODa2FjYfmNI7OM+f5Awm2bgJbANUkUq6u8rwBwBqlEnDIA9v2hqNzi7DZlO+SiGvy6y7y71/dSd3vUos8oPd7Tk6Pvj7mYePx1AhMGL5RXFAYtg4FT7HvoZws3KtOmRH750yDoIdsG6KKLRQ0chYw8lkIBOyWDjJ2Yq1leFeDR4ahHT6yNwwwNSe4DvFWHKefpmVYFtsD0IoEp6iWvbK4oRQm5KpNDiqOYjgdOnw6pYN+V9HmjpK5gR6YBV/mRaZNoYPXlYCKT+yJxByDriVgjsjtk5oe2L/1CCfh4YRLVwnIe4Dqeen8WSe2Uq3ZQf/kJsiS3pFzBetF884P1tV4F/JE5VZgYBCzxKTtibncl7I2clO3Srlzf0Bb9661XYoimUaN75sRUhmFVVUSLVzRBvm/kBODIn52nLCqfjB3UTtycXk5yeBCwICBsugV4hOmhhRyjeh0urwzSx25f7WVLO3un5HybKU9z9NYzu0v7EZq++hzYKLQqk3LD8jeCYwZjrC3JPS6HwjqYMvpwI1umtRVUuo5nQtiX6i/G1gWRuY/boEBk94B0jK0c1G2xHDWT47aZ5VKfs629PYXDzmBjrugJHHzXzP9nYLHZ+Q+VDt+0g/JGju5ViL26tuFeMlEFvUAe7zFnEnixsRen0YN56NkCRAuJwrJY2crcZ7KkDW7It7unKV508gB17kz6nipaRcbAZ3wKmYv7NWfHzEDusPLuHvRwVer5lJ47vGO/3gPdMuPpADOwHxtTE5W8s0ofBRgR2MnIGvLfvh+Y+eytnmrVF4RrUMKRTM72kgOaIprt4Vdy7mzWeLdO7DxJ0Cihv/00EOxOFc/Xfx1LTfmIfQrPluSz4qKdA+0U2QU+XFeORAPO5IGIlDgg0kaUqmAL3qxAJcT7fyLoiexU8hNLg79SqaETfo/9pfh2Pib2jZI4b20qAES+ur1tCqIaCIkHyLMZG0ZaLDa3Aozcc6Fsf/bMMgyymS/M/f+p56edCEtLApHiS+r36Mz77auGrRD5ZawX1C0u6smajxd0VerPu0I914zsvxs2YeFkve9IUkvt6BZm9hc5XNg0yic2cw/PX1MRL2Q9q5fDRkvATqgQ7QaQV+LAczkzoJMgl4vuLCyJNRfz2bysksqZzoLXGnvbJAemL9luYePfcUlWxONhIDb3K4zLvmZvQ2UNmPWjm1h7Ja75ITpFoIhhim1J8IJr8G8TB6HVOvReya/vkPf2itE9XnNzSAuytRpcYgB6GGjXTF2J7Ul96OaQiHadVQfGqQilrNRtvIDdXdG6UEul6wiLqmC2RCT0bRK9JBWBFPJkJvuHo7F40bS6JkuWIDta37BvPT8sYgE7Knuh60NwnkFziDTVdRsepCG+6jfeNU2Fk60ShOOryn8jhtAdVo3wIwv1Z1u+ujJIepQQJ4Nncy4CPO9SXmBWk8RRJnAM5GxswdpiCmk2yOlaLBdcsFjTZwbKB2azqzgOlgdk3g5D/42vls4Bfe3FOD00OmZ3jExOcndtStF2LXLnncRjyQcjjtrFHGWNiATBEDLxJV/DBh/UXDGP+bzj3m10PbR8BrysO9bUQ1TulS7u0E/xks8hi9g1JfUaI3WG5q7QOtzK3r/N+lDprjICS5/JuksZqw9KP9Ooo4TGtgYLLJuXJo6/a+o8p8eQAM6amUQd6fSu+Mws/XkgS5CSu5CWYduLfHDUuBhW6LpSw5bQnn0wgD46AmG96JPyG8a9HOvq6tetQXism4rmA2IukDp17PXJ0SljNuR8NIsM+Xuk7x5U8Bfv0y7viE+/vEU2PI1cF3OAltJr4clecYKgWxYYAyPDa0In77T3Ix3v9W2wbFRYksH7XAzyaLhlznircePZWIU9nmLm2+0mVZ/P/B0e8/xEgGhDNXO1G1AHbyA0cGewfgtNGJyY4ftOkblWD9LuIBOs3Bbpd6+muLYF7YxmTeyfmr03LAW8KslUF40T+ShQzb+r+h2XoRvs+vMe5MNSeSpzWToCzwSw/V4mnXW/gtha1N30/RA7dc7+EJX2L+wBQ3opwtyI5JHvyzdELMEoYDfZuKjrtfHhhzSt7unG9e8Ys3CotP+dwZeZDkSKzZoGLmOa9ML8PAhLanOMn6yUp5+uJq1D16UtOe8HnpwBsWQ8eLGt3zTqxX0l2HwmIVf2FotNALutZWyAgaQ/7zE6ywseyX8DxLv41jtouaHjnDw2EMM0CmaGfjbUO0p+cdYwf63CiePaNlMmp0GnSa5F9Do0Np51NmPQkK0VEj5bVLhwHgpFB46d2ZyQ4zXHkXt2QP64O659x29idZ+Nmnhsu4eQuifbsaaI+CReIwTfUB9zB2LfwH6WXKtkoXqjAXLV8jv2rOQHXefJbBi2YXFt2lxV78F/srYmkspdIJnG2IGCmGx0KrAUXnj7PP6PWNkHOwkF6MjlZPW5uphm5Opx1tVcETKLgewq3kdT8mDKXVopUv5ZQ/kGOeUZc0T60h4ImEUpyTspIzI1gaRGFjonZMLF1/+HVVJF3pX7LJl09YNG1hgqrQCYkhQk/Mvk+yegneKeen5gmdVRm/cF/vmP3Gf4IsMJAS83cU0HEweI6DZYZSSOcECQ7Y60amAjeubMkbZK7juKTWsT4xFq8qJUEh+eObVP2efNgpbP0UNflFn/mGSGMCgxT72BqjpqGJqjfS1BKPbJvN8PG3w+zSxweaVWGqKcCApXeDj3Ga6dlORTfinnoz0272GcYuhsWERUj1Sk3cCt/jGg8fhgJomauXt/KKyOzXYYjd8BJMp1IY5YLf6A9oSb03CSbFNO7ZzjzgWurMsMpqMxZuTiQLaKWCYAXPt0z+yWTRNDhG1KxiATxLGxkowd6s9rglIkweKvUx6FUV02IuN+f2H+9LEZwo3BK45KKvnQzBQrgz/7iYKADYNKkRqXZ5ev90qZvKXkbpiHHeixyBQiFpqb6ZzEFZm/MS9gdJHBGNoMBPLbB9Zp34cDiBC8nQ4+CTc07Knm6TLbaotO4jRlxmCkTkCgOK7p2nj6Vs/qj8k1yhve9S9YvY3ijD0qDudKPvhit5h7etftU4HIeUn8ZKdQZTUo1tjsSO6saMWRaRRHBP2xI09GADAPg6VZ5DCSsYfx8DhIo/UW3csXBukRSFgcqPhRlENryFHC4z/2wSt8po73iFIaAny/1Jqtcb3cMgfMrBWCkPEixSJag73zxdg+oFT4ilNBv1fZqAZCLLzWQWBPze2oXt18LWGqUrVcAwEoXcSey2ltlcbC7RZUsAA9Xtg5ov6rpq63zfdg+Vqeenl848WVcMA/TWojuYsbEAnVD/AvXlY7xOwXBIXYxHx6yn6NkQU8gt0qvsXgp0oxNKpTJYeMWz8wyn8DwMznuvJFjcaE4tR/rybn60rbfNz0BOyp6+mG6/xgdRGgpRZaS4mS0jLiGZ47NMGLyZlvTpHeaWju2TRn8z9+tUUf03hApSwHHekMz2EBulhKRWEjnERYw9sFGg2zXuQCd95cs0R4PP5TXFpcjWITjvYDFPs0GkjiGJfxXv+emgqYygz7rj8VtP5EjNyBkaCJriSyswiGr3hcuILZBIoqiy8TjKwjZgXKXuwU0jaypZ2DzPClzNVyXFvJoAAP5a2JW/cjZDRycmm6sW7h9ZwmC+6YXe+sH6mB8Bl9TLJgZojL0QyaYw+8Xzsn5h06+jBpPI7I/kPVP7W5BK6cQY17YV0x1uzK/y3aW3BPfFgvCcNTcKlVw5K9vNNbvqP4xynqV1+VApYnAjJj3SDhvWEVWYJvxlzQU/kxOrn2hFCCeLVYDk7bb6JBJO3SHROoAE0iDciSIXd4tFWq6AoYcDHQQ28d8Ue77vnYvvqz+/L/AfDNVoAWllPrimoCsauaxIKwzghWBJOvU++W65r3kmLYxS0Ius/GTiPnRwv0VRl7lX5/+YrUe7LHnJlSrHd1ZM9Hgsvxmec7jEamIkIGf6Hijfpd9PEtGKY2cPzAqQ/w70OXtn4wVcrriJEVftlFiuXYouxkND/BafHeA4QawwnezUCcUqGbawknalDdXsIcjAphNO3ChnuZnkKR3S1ZDJraApamLYZCXYLf28sgnrtazw4Iyny8M7Atxhw4CZAVIPHx3hKNtwbblkJeZUDMbsQLmWjeqn2yMWazyr1XrgVeicsAdhOmNYqTuVwXp9hu5DE6pXkQ7ZiGQQSrb4L6eava3akKDiD0ayuPfd8j6V1eU9IFw5H5r24ffb1r2+rR0iVjV3ibDNKB4O81jYiBrjXEbUB4c/HNhTDYYm/VIh1De9vDiORCns3f4rGsH9JXte+yQQ2phTNoLZdNFYyyptaXDyXPsx3lHbOdTrIho+JOzaSuuctDPyhEkl2nRSNmUynH0zfky2nlTKm0sKjSc08o0QSMaP1JRt173WvWwmsN0r8W7TTk6jEzEC1tBuO3o4jSwzKNtZdmCG+0eFGyogmAn8xZu5mFEGA3U9v3z6dZ+V0EY23ggDF2YaHtPAR/fASnUcoqRpDHWVD13HEHqw/TesFXHO7jcax3nxtoS0WCH19y/sJuo8xwDYZi5N3UU7/IpkQ2OwqSBFeiZMuE5Vhg0V/UvKwiVVVu652YVphKhj06rlkjzGJuMkrjuKuDokfe145eoYnOwdJ13A9drAE8s/6YrQ4PyRAQcMt+nYgl9L/Mhb1WLQzpVUVgFanpwP8oBGADqsSdMYCXN8LeS+Ypgjgro0Hntm2oJQM95mraWKSJ9RDhkx8SnZaM+sjMEXxaPVW7pTH/PV5/nFFZvjA8BCYFWIK7xhArB2gMMLQjRNxpgLiS+LV94IdjNjdehmmxuJUVKMNPs8NzMLOWGjWNn8QgQ1mPj+W+/ysLzNyA2Y4DuanDl+zuubnf5d9lHk26QoXfMghVcHAd3Pt0P/yEWt/d7xqKSsNzPIZBjUcQnT9teT8RfSAvvjxMGh7DXnrjPBkkzPnFm0EXhPscOoTnbxSGh0+b/mX0pOVdKOA8ujesFezjIstNBd37ykGKax5pjBMK81ksF84GPT2DKw+4cYTwiN4g11SppHvauPdb9qKneeZoqqesa6m4Tx/QNZVjr890YLgG4B72NPhKCgOHK3Ch+fbEGSqdHscgftgaxCC0LJ/m2WS8SXZx7chAJOhoRhko+qcn8KOYTFlvBEHwn6XVSInqLr1dQ33rngXepQLv4hFsj+bp9hy2OmfQR1nyA4qKyn1bGrnZ13rKA9uz0wFKSbJgH5XKI+93XxxJXf14aH4X2XjS/9cRP3YnSAl3kQwE1ge+O48NozN368MEQXZ2VDU90GMqvZ0xW8AN0bQu6rJn3jXwIQ2mobMxBczFrynISDzPfZKW5//YMxyGwubiwZBKJPQlW6DMfamGB2fFWnVuUrmNxcHYa30FtqpBIi8DuL+xtgxwGti0rJihlSAzq8+OSFxthVYl75YNks7XMgi2QnDeNdqkZnhVNHMRGNB4qpQ014OerDYwAgy63jVP5Dv8TdwvkAogvWML7BqVDKDLym0W3E28RZolJZYmvHhlqhDkxrFkmIkB7cGth33/cUwlMsCcxf3jAJBJnqvrQlRJ6Pjn8a1PQYsCs/5lGA9Htw9Mw/o1GHT5jTruJ3Fn05sjy0ZE8H8FEPsY7F10mWYN6YIZP5mkI+axtKi0Ht0L9a6xoBYqgUG947azD7AZSEz9ShwZ2aiR1QQndcJQqUvPSrQ2JPKJJr+RNhL8XlEotfwVy8aFlU8YdcZLC1mB3Y8zFEK6uy1nNdOtn3UBNUu+meD+U/sENj2GbC1yc8fkU8oX2NoRtGOeUk9Nm83mmSwbQhlAFM0P0/zLz4TEnUcMHqgSc9haUdiivcTp5WZdqXY9DFpc51OBPuOPe3ICl7wR2p9aegkEoT6LrVDK0ebOygycVY/r1JAD+A6QnVI6KEaUiUCy05aKCCjsfYM8a+wTlR8pOkV4yo8REDx05JjSb2ZVyv7SSmt5f3zx9mM6+Muucnb5MUKKBTuNn+YoaLa4Tj2sSSy0l9ZZScbbzwOCjdhnffSpdrIl4QRHCnJflIrVjOICEWEPH8vWb8nz37cloMZg3c53xsb902O2XVWLMbSY+lqDOAfKhFIypBdIMcWoE9Tr4hFnUw5VEdKptxIkeD18kNKzIGGu542NQu5VFI86SQsC5j4mdQN/aYOCaHZjjTFb570FkJw6Y9w/exDYxkPQ1KrJEFV7pLAOGYtSxZd3wvQatkGaVnOMWd9GNc0Lro4jm/r2ocInCuVhUuSy3LzO5Z+jxJ/11UXa8y7xReHHdl0Y/x2QcsTb0LSGDGGAOXDke8wSau2ugkvehKwQ0MIGDSIWieWuucPToWk2phfXt+fzs7RJm05bRtMUQqdCoevWl+x6rDb4BFpAPc853q0ONlVpqegKyDumvPiQfpk+LhjbAvHaitJV6GFSoFdtCVuJ3ZfbDVvyyx5vA9Tuy+kiwsIh2kwKrNEhPWGGCEOQr8XKsygnEHnyx7aTXj36wRi0a2WbEOX27K7oo9P9j4d13n+CnZWYsR4ZKztRn7eKXNge8nNbMF8TKrBSDnKly0/nnHb/apKpVcGl7Gb78v2GhTuE6VxfFg1S5jU0zkeos6CweRqsCB+HIa3husAHRJdGple8732oLr2Spijzsb2c9NmPl6DDF4ZnzN0QQJNKj69UXhZzTcqlzpYXwwGX67mKUc9m9QjbkE91YQhIcMa86hJCGglNgNs9h6ZKcJALgpnirWQREnB3rjElzqy/kT6L17x0aQFHBNBIyTkwgvxMoDK2SLjKU9fkOm00CWU/kGCT0ldmb7gfroNGbUxyltQPeylQYFMCVQZR6MIIo5fL7RQwILEafB/yLIMBfbexHtaGUIOcVFaM7a7Q8DytQvwE6Pn/EKA76rlhNdz92J1aZsRecNwj6OTK75O8xNsp9P5TWd7Gge6gzepMaT/J+UjXf4KdYKPBEm1NTWJrWKcvt3jWLiADd+BM1xm3FfT1R7XoH/dPa97t4HDHCH2T7OZJ8SVyem6bb8KYikO2bHY5fv7aSJ7H6+wWxQo3Dqo7qEWgwvqY3bH+ChCx5kIwHVPup8cwqUHnDkDqi5pSbTsLvsIhFc8KRXCFiI/R/CgMC9A1pKmH6KXhCgxIvC1MGMVISwx+faR7cmMGAwcPylOpeDYPVXPR1L/e/Hks+uLMnDOqfrCt/SkVVmT6S+iKWtUeEjUinZ5brPzVr1EepnlwRe0Gn/NxpGF9e+T6v3P2n1kn33MZMPOUQVdh1jntgw1jKq7ztZSyFjwtrHS6g4AhjAYHvylsjNZI/wOoZrm6MeW8MdpCtwyS7zd0n8EnL9rqRaqNxX9VYpU1LZ67TKI11WijYyZZWihbAmiVqralqcR2qieH69inJBO3bBZ5P5yycyu6s9RZrBYWgwEYXtG3X3VhLUiFuL1MhGdaVCOiKGSkizC/5e4axPZ575P6j+gvi3BryYV9o+XVwblPJRu2ZTa3REJ3StFnyk9AjXI2XlzjasWr3OH/XK74em9WRp58wSqnv30bSOR+YsgGsYYNqigtAV+UHEMw4vuW0tHJB5FgAK+zpImWKYLa2FDNCI3rhZVV6XyCsiLnx6lul0JNugJM0liRWCE7VRuIzHx7MRUwQmbmnhdvQcNYzXWrahSRBWQfc9Jz0nraVUyqGDxTIpGtExNG29zFqt5ogqYYsXjGWEp7SkLiMSkmpRt/4NV6XINX97yYnrNs3o3dFv6f0MFuSqUdBKmseeGRiQsnaU5HrP8OgpLKFQOySsqrQgvsPgWmMom11+OyOPJFF3E3qA/8bD8Y4Vj0b4F3QjCsTdCxZijfJ2YsZJN4rPAERmkYpSiqcXK8cr1sHn91IYro8fD3EH3Uw1tBRIb3wP4ylNbRruSnDw/9TKfPP5O39rvz0UsfiAXx+l+l9YK6a/SQotPsl4jSkQiFReqy+9AZ/YAdPSzSMZhkxlOVpxs1pVLYQT7MOvr+TcXPB/M4zibLRxc81wA/lXjkQ/G6HUtbHX2DKextOoO9AYqy4DmOgR3g8aVAVdv9ct6w418vtte0By5+ypKVmZnyRvj4JYwTOq8odCZNXmZ6+DKLMn/c/0CTutM7FxyG7iRY6MMvlUx39X95hC4HSl1XH6YafItsw5S3H1PwB1DLxHek2cndLfxBeE5mL/mBg/SHnj2jJXWOwt6gefYakbt8ZRXg2h+RKaufahYf4YCwsBaiVEgH6vD8+0iYEPE8IrMxZiJTLE+2AnmiCShKV4zn52m4lZ67GgMKp87C3szblQ5K1BX6aDgbbmFZ4tHU2baZJKBpwdDFfVlfbiXJzrTax9yXhhCBVsbWIHt2ihmz5PIUvwj73eUaDp7m7MWPjJTwgMjVpatLfCAhyQ46FX6fOleQAVa9HDWV0x1q5sJNmQ8sipvYf8rPVNhdmmMRQ8IyL6BZ34XsTZvR5FV13eivRnt6U9Nu+0CWPsDBrX5T4F1sfAxfz50UHZFFznjAHG7MJRpZylDFt3Ie3PQ9FN9hyEh/fy/BjVyspqPa6ap8GQ48C8xWZpcVU2UZiqvF0py43jyrkKXrtwwJp8boDvcATRHF6ZLzPYCO72PuYKYVleXzs0Yv/BBUcoeF38QKFkO/qhMELK6vW9vxH+3/P6iPMqWsVAEhNSETeVBygGyNy6q123xEs9HHgjq+eriWwnTytPzoCVMXH67IHEWyzKmn4bv9KnBgZqL7bRO9mQ8JpLQfU08+sv2mC+axQf4joOC0SK8+L4tMbeJYSdPPpkBVFwF5uHw5J7KorSd3RBg9nAL44AEwumAEoXLECBKsZTbYo8Ey470d2apNbqKAeLf7yVSifDP5zN+McwpOtn7v3pL/9NjLjXn6opqHC5FCOzmjUWbRGPY6N003la9fb9qSQfdifjWpMrxTY/dEid7hwiPr8d+qgsvBdUXgupp1sOoKX3d9mp+yG3fLhEVmGk01i5HcLDQ0PzlnrMrpmTL8v+bOiy4omnEqSZZSdT+LQ593+FLKeTypsVDmP8Sa8ckUY9fVN3j0eHk8izDTek9kFLNs1ElMRpIiPJZ8MM6tw33ROg1qoL4eeeZ+faXXXdjVHydlE99kP8TDbpnQOFWE3r3XdaniZ5FHmVmKyNT2Mj+Apwcu9VqQ+v0daEJmlvZeiJiZYXmn0ZT3whapykj1y4321JmQA26IBRCty5eThbQdzvudJgX9zZKHFTclDmo/trvZ7n2+U5/A4WUkJzaW2FwAXOB4eC+xHmCwXLZp2457R57uArlF3DPd5MmjPKwbd4NuIsetzygxsA9TQzJSHrP8FTT7fOcgrevwNzRjrwL00kNY7KgErB5qVoD4rGoHq72DyBPPmzKESINyKwj3OpyPUW4ZC7TAV0RK34yGjyzIoZ6fIir8iW29V5GXuTcUM4IpunvS/bHB7+LGuZLod5UDTXyYKrQSqWA+XwgMITeK3K223Lki13OPDCY1DLNVGOuEkXAB7Pxp5IUEtJebn0RYWV0CuVHLbYnMVCng5ceX2qHHaMPKILyHPw1riHTPdet/rYTEfETRPzwyxklHWrg9HvOrea1Nh0bvO+2m4z7htzhMoMDPAWKlSC2uj7GmHgZLhSx5Djs5YnLnlGZvNDyaK1q50W+xA197FtZoBHeaAArf+1Y4cUSUGJu9OFuSUhksbarwIZ2csVIEtBUakmbLIhdAZfOf2XzI+yiiP0FCmSda/V5UCjulUGpLxCEfDdKEh96IDi7Ybujqa4/uzs8/lsh0PHk9jCb3lAa4xR6mV6C3lS57DiQfCGQdYghD/EQaTOMfb+zwtdONmjxWcs8aeuhgQkCCthdvNief/hr/FxbC9jNoP+DniSTs5+Y5vk/WOQB+4js475lSXQ8tLuymCpfZIspi03aViLCBMZgP7Vqs6lTgB3TP0YtNNKhyqD4vSEDW8cDLsFh9yO7yMMdK7MRXq4zk7KyBWowMj2XSCNqMWAbM3N3nx05ZvlIO1SMK+JAwLw5oo3e/si5UxmsaPYHdastMb/eUdQ0QwENBnf7QEYQkA7yU5k1cZ15qQg5glyrk7jovnhfeQAH5KOyIYLGHNEy3kNFVvsK4ViciwkfGfcW154dN00NwC+iABxkdFhaY0X5QehScVxAnUDHeGbjUkRT7OLvIgx3juFwSKwrBYhasm/fOiF7uilptjnR+jaKU33k6TlOLb9l/V22I2hShSg89GmXAoTPoVyJvI9ttOKK1Au2fNpHORILFd0/GUDKkMol4vcTL2ouf9TBK0g+4YMRgqoUCV+FjaWanIZ6oqS72xe9jAFvKdCAkGaWwyO4ZG2IRx5QgcUaP68JxrJleG+GaC61ZJRmW0ECr0Qv+R2l0iLxI34L+Y5E3miZ2vepoZtkcTt922Nqo72rJFDIbmFZ+jodsO37560HZ0wL7zGPlIq8XZ9yuNfVGyFxhsR3RfIm/pUifzLZwkrYbYdxnS3mfv5lK777S0+4PLIFDR9im+HfSYdxQZxLmyGmaUMM/M5aPvo5NzdnZCF0qPeLMylHV2HvF+SNU/SRpZlSaADl35EvEWxCM03Ut5/X5x3i6/Yw0tDw50K+dOfhO99Mr91ADbRMRhf9rdfWFQ0ixtr44dsMjj1Q8PJApCUrRXushukI3fRjdk+1SgzIxClBTjZBPtfx3cgkfKhJwm+cnkKDhoz6Ty2cccu31kUKGwE1Ay7RV2YPXcaZ44jpvuOfeDu6NZJkeMYGzsX588RppcKeAn/Ika5E8JrGfuwdNvk+gwFTvogDnTw6T3O8nUo1DfdrrJFZ2IKxYUpHnUT8jooK1yhWa1mGo+hRVhTh4gMtzxynOj5UqpJq78To+iGgj7sUDY/ErgVU1NANTkHjU23ggPmeyiYbxmooQML30Hceq3gOYTao1pImY2R6+1861KwszMF8a/03/QQn4TVYgs5ZPs67/ft9AebPpiC8sO7RtSIdgJouIfvnTuGlZ5HdpzyB/y8yp1SMe6/9RA89jvDIdVRoLc5u2+tBIgWwE8vvwo9ELbk3s/EiSRfaYovwzuOxvc/X1b7Am3Stx31zM7UJE9Miwqq+qe2r0FUvshgldS8p+h4OHLekFyN1xSqzWPMN8guyVD6uQYks2ROOcyH640judZLd4OeuiNytvrF1sSAatnWNDB9WT0ZkXBjkQNEr1EL9+KhFrDhQhUZvQNplqakRRn11iXtGqfo2FO4zC3GcN2xH5b4vk2CIhWAtxWFTqnU6sCrdTJcl7flxPznwPrNx6JwLsUvElFWM26T+27AijnHLJqj0YPHOVP2LqzhIgp9bKOfG5OXyLNteQRWyYu3zHBrwnhcEe4yIpWljedGl04oX/0PKe1lFqL4zbitPo+1kLzAZTsWDbL5eFCdTHE/v8z4lL3UoDuGcvmeNXpRU6LpvI8RrvqCWllBz9flZ2BkRVsnrItk0W9mHj5i03OGTc/MvHZtautjd3TV94sXQsqgq8p9fgmtV9HDhmq2L11WxpzfD5wxDHw9hpElvd+Dl8GCI0OuG2gKnBuwQ/DDwOaywfQDcIjGioP/G0pUWErmwqUbq2GVP0tYPWvGU95+V2ijM8Xypkp1psAZX2RVhkDZMBxCZrhomKl1IkBW2RyKWWZki2sKk9fjU8beaAjWpsgw0WKNjS5tGNNoBQrfFxGoAtPafj5VIhY06j6wp5FI9VJErpcT755/SHviUigkPhWn3lKK4QgzdNmBZDdG6jxrZXyYV24rO5J6DF8N4g/x4NntExw9xq6WI7I3MgZy0Kgm4v3myyHgRVmKxBEfca3yns02H8Hk9/igHbk71HERrusHZ9wypkxynNDNs5+wsxjhfC8900BQznJ9/zlLhTeSKjNFJDBjG1S5nbRLIpBzcMcRvK7JMh4osBPUN3meosaCMTkTScMdFYfH+H+JXc2pE0tosmsKn1DvYBazXngeqjGuS9yJ9rvc6TwcB/JnbpCDKX8UJp5P9SjJ9QNYl4xDGroGHLeP6bL0VzmzwnY286IQDyndTYqWZ51yosPo6KdipyQVNqEPL4H6K1CNm4O0wYB1rHQ3j0JLcafAFD/w1p1CQEdZyvfe6qX6NZoifw2VBs3gQs8VWz3w2SSndyUfC43RRnMBiJFjThSoiCZqg1KAOlRvrV9h6Lu/wZHIsEYWPA7va9Khhv+qGfCCjLCgHuB/oZD2TYRametsW9nLPEecUorgcLTS1AJhngnqJMrthvg2e1GD7q+odAVDR8wvdtLxxaSzLspmRdGQGMM/SO4KH1CyAQW0VSDVHAnk/nsEKlTFA35cvxlkDQy6cOiSIGDZxHSsktadnlDXFYfmbGidyXw/FLu6nT864ltLOYHvghTzEi+wYfIwe+gSzhp/mOcYNs+BPA/3Tl1roKAXA9rnCkgWs9NuevVtYqxIFdIhnGlZwcQpWFiQ1inADz34W8KHU3u8Ub1o0BLMp4adZX5v+QXGfztNxJpMPnN74IEhCSrNi0aUWvd0tK+rwFJ0O5uMTTZRwLKOX4nZA8L+pERmvy0esmDdU82s4rkRaZmAVcx0rtyj4ZbBjnTinl4hkfwvu3+Efq30JAez/0YVnLnXB/9lx17Ncjrii2R4znBpwxEzK4jjbJocWgKJGKr/BfNSeTIU/3t6XiF8iSS7aHzdusK9sBJjiHkujz+E+uUgO9kWLZNH7763atq/PrCgtfF/vHCExFEC4Yp7b97IchRxMRSsT6kcQ43FY8PLlm16mPpfC4IZaRunWkDQyj4mAJQPV2fTyIMPoCwTcIfZh64j2SECseGS+WE4GpSGEnnZ7iYOnc/4rox5vBaXdiZ+GVeK7vc/QXdaMGw7K5FyDbZYQOOZHHTuqgTN9P64zwoiopzvN2ljbil1H+uSyDfD/6Y5OqXf7rufj8ERbKeezcdYC+XsfZ9n0CBZc9YacZbSVus5M1vdA2BwCZOZ5CeZ4mU05lOx4A6hfFOn/onNAh9L6j8jPauG2aupy5KBqvvbxwUu23uYaI0VMCZdBYZIdZyTN+WplEBztlNXiOCyZ6uPvubGqY3/UwvHsoPxzzLl3TM6dF2nkODXEU2LRyhTvmMm9Rt0daft5GBn/GBHoV7wTWpslyh0EUZa2581I4+TeSr5cEQmLgflVzOtWijphmLWD4ylr0HmJGqOmlERt64/yhPvNcvzIXk4M63Z9sgu6hpu5wG0KqVGKxltiUQYgQsPYNDPOrOnAVRPlD/PVLRvHSC8rEtpNciUrwM/biWtlAJe67/W5h3N835YVIvC37rzkTwj/lz6R0d0Q4Equ213xqXbx7bNyUyrB8/RaJiwRnG+H43kER/0lE+7gdR44dKTpuv0U5nzwdkx8z8cv8vp/cuTQGkyTTpiy8+8B4hfBM2ymfdXmU9Ew7Q5Qf3m+zOMA9tgA2twGuR2mkwBf7VQJ8CL7MTzrmsTRL+wCuYDbv3EDVabrdJ4NrJ2x0ZG00xAWcPRbDkwXAxUOjiykiJbzz2FjPYESJQFLSEHsmJoR/RnTpQF0oeaLRI+LS2+1Gv1XOMV61dC5Dx1HtAHlBB79Y2qrLrqwfGLcYzPNH+gMB39wJDKrGtxkCZYORWjAono/E8Hk2Vh6JL6HS7/vj+0L/cdWqWRr34JemyMfC9hx81dJBFAWyvBD69/X8AxkknTh0Xy2S5yDfvTA9adoaT/HFSlQMpxdP9ojEiN9giJW5cLpsY0vwKexy11JHPF1dgZnTMJj6oV8qHoH8aNv4Ik4hX7Ikh3g/mNVjt4b1AdPkhQYJdbuGLFZHXJdE1ihpytWHvOVdkuMLaddqdH0S2s/cBj14XZjt9Eea3+bp+alkbtIiYLDnIF2oKqvzQEYsP7RnyLeyhEhgwOq3UOSIv4+EM7EDet4K6MLA8ouen9r6swtoW++IWVk195g9cEfJJ5sAtucZsCrRkwrCAeA8JrNLLkqYSDuTBGUSaTIe0z1PuR9CVSePjMHhpDPhmJ7QtjOWs5KhkKXSl5fUHbgPd2+0u3nGroSv2f+cUFVcQS38P0izHMca6wlhs7VxnIr5GhpH1e6SRnP3LVi6coobbpSn2bzIzX2hgppTfPOy4J6szyeD+ivEqi22Ug321Bsb3j7hmqu6ygJYqqGMTwgSncv4WH9SH3pMLsf0txUUIQm5grLGI9TtN222WChoCMGGmPFzd3Gj1NfQs/EcytLZdW0GJEt31/ipLJN7Yv2tKejID0HH0aryF3k4TVMw3C8CgzHu9DYAJRn7fWJ68Ru8/kTFIJ3Mo3QOuD4KLFnih3i72s3KrY229pWQX+Ugrg8d++z0vBXwLX72NgZNcVQLdS/n6AdJQlk2oQCwAcFloSkkGGm/xaaZzOk+Npzxy1qwz6K/KmEli3DCIVdeCOA+pH7lqe2QTPuTyFhhlDovY7etiibkZiqLfZLnvK1Nyzar3iRkgWCIfoGDzKP+x/DsFFvXlYMheLLt/d73IIQnk5lMznIPsReKzp/5fleGO6eOB4qG6BWQznJoe7HlZ5ubQniUhEXUAMSIGMS2zzwWWrWtgLua58XBRF3/cYhoXF94g6V/H0+EMlUXKmg5JoK9Z5+VEJiONNmnF/1Q5oNFSKm5ABGvNFeGQw0nsGsquFIMQqgmxlRrMzVky9lMY/HfNAGnhtF8eqOEnZYokGFqPL46B8ylO7Y9LooewCP6dR5PqYA8YhGtLs7aFD/ZryhOs7SJR0nxMiH/KiC40aQP8t6US605h3RvicPxKUFXHgg+e8ZCx/I7LUdhFxd1P70fX/bQNb4nOa0WCh28URe61M1MOB5SBM5KP5B5slcLArEYfZDSWxBS8Q3Zm1LWYFKiVCu0Kq6SLILyRtp2OwZh9lzcb0jVEC8p0Ch0brRYurSAdyytUmgNeDNV+pCVv7lsjw5Bsl9KXV4Qy77jNRZwNl7jo5a9BEUBsyRB8uKA5y1edxHUX4wL01xUmeGfbPO/wqvoyE7GrjV+e0LkFl5Z3uMgx1JRrUQltO3qbWjlskhU/pcX0fv6lHUCrpKmGLGba/LHjqlUmWkA43zuS+BcBM5MQFtKd1O0IkYhW206ik4BkM1LeTdpk5T1awcrl6GeRxkwG5O2qvfZvyHKtuWokYhctmUF+/qxLDRW3dy5HBqhx4lNA72FpkvOxB06w3NNzV+0B4VacBCbAGZR2zOh2xu9mBMK1gHLvSFKE6X0YtWSUYRu8ZWXILiLvFZcdyBrqkhPexVdvlZUrXoz7fHnC1/HY4cJUX/xOVgEdROcowhSSDlln3tWHIFyw2KmOiqIlDI0J1ipQ6nhSakvAMpZk6aWPtJoE5hcIJ/Dh2hHfUaTE8CRAFhaRpWm42VEBPChXWy7wsxZCu3B9D1H17jAldakd2CaDsCn6Wn21JZnn2jd2gxTdQAS1xx5BdYQw5M4LH6rHSodjJ2doQIW8YN5YPOU/yJcuJb/P4r/WunSUS+5CO82Ukv+76zwfXU4J1C75fiQ2DHcbDtAdebbpSMU9SnjRiSaR1FY1PTHQ2XWIDqgZnBKB/WyXiyV1o1FSAmhW3b/Ub6Wn2CFW/rdCKrWpq0AMEoVG0rIj1yFce/MQWkG3gSZ8UPdmJzlPG6UjfHPE+z3RCRWOf3vvgk6vSBUK3ZsvNDZ2INark3pocZsP+fmUcDuuLly2KtFOxPDDtC+ckI1/T/u3OzfnjRfgHdV27i/QJ6/eT7HH0W30BOg/4w4nwtthRJ4bMo+Sj9WTTQkxYtFwwOnVJObdFiJAUNCarFUR7XNgtGvjLU8mo6t+ACkwaDYHeSKYvjECZn6/I9+S+nfNa8xOAU8/M3kRrDpPDJI3s5pdzpUH8x87D8gSG3+22Km49tsQR2xuO+r4rQA7glCeKsQCtdXmy91YOIQL3yK6SmsoPvUR+Br6E+BPI4zPmUmclnznHAf3OLIcDqxgTkBJ5y5MzChz5yVROTnnJD4rfNhOGW4hU8Z11/Z+KCG5T/ODYBPJliCbPYpcnnpCm/qE585H3oIDKPU1S8mF10BrQjVhxCJ2+dRoN6Bob/FVAoxoQ9dxnNjLiMzK5nqCwFynRlolS7UEF2x4L2lA6zxfAWARWeNuUAHg72QFwpOFh0aAOKgSMXjZW3CEuMBQDS2s4rRh687VDP5IW68OIp0TG5uLPfEL7tg8lFoV+NMKqD0uoRuyJPDUj6AMmFSfNGfV67ilYzjOlYys0AKlv6h/OBNzSCQRzuRDPD8EtzOzuEBdOLk2NGkFuIbFhlh7AZtsS6I2cEbpWxGPbGs6mtR7YvppgPrV2fRGoqbuOGaXz3TPfSl4nhN/1hHudn6U8+wFSM0fRbTtbey0uF16TxnEdPvflPpzwxUqgPAsoPBE9YUOPllX1tsptzbSpumGg8QD4wxMi66UuMjyiuzq+VYeBEfzrez4Yb4U3OvWIERCuI3fF6VWH/FBN9D7MrMjhHXLnUk7M7iQrnabQs/g45Gmlf+H/5d79D3cdgcx1kxgkXK0iHELOlXFnnk8sikSzfFRd3hXFn4EEkORzbJOvz/bdBrJK7wAOwzOemUnfE98GF64TYOphbE0/IGoFvAQtKjdACn8pgNJDG8afndn/BfjLcwQNr+tirR8DuEhyEZweWh2JHQcgF70PJ8eDyP540VnPnimRbs5fCshUshBoVbOzd8dp78iID8W3k+p0uLLvPrLjr0f+bJxuM9hiyb0k71Hve70xNbjo2e6QRUgyRHZR1Uf0dNo7jph9hKtS88GO8P7MhmG2m2UGr+3Aghbt5sRCaQAkOuwKsP0U3nmLYEor7F5JhOnGxmOvXF3yYDdKQ93fECsz7YupA6cfeZaQ/JFJOeKB+gMTfJMIJsVvP8jshcKvZ71X5j/wvU+KGaI+R3o2vgQkr/FNXnuVWYNzketQTpZMPIBLLqR6ah9RM2kV06ukpIzfzm2p/NwzBYdEEQGsh4wStA9VAX8kRQDg0v8sje4JM5fiJaMru17xK8LG0to73GDhPRiVYusWBro8QxJ7pj/7p5S9uP//JE61ek/30k2U2SADN0D77BueEeLoJRCHuqDl3bW/Tug1KmUBdKG9hESKR80P0+A4iAWijLTWV+CRKfbjP00O3iJ73cBjIlJnwHPXtuNQZYuml2DwJHaqGRF4WamS1aDyDE9LRgKRq8PV9VJ0P+ARxA+vsDvQ7r1zDEfrveC99BelDJuPf20SUMMEJ/lFjdbEdZfdl8vrXr64TIfP/gSTvLZnF0sg6SpPvCAImHbfMSMUEtf/BqM9D4PativR+b9OFaze3Dx2M9Fy6pPvVaq/8uTA3LGtscJtTNQG6owZntOgEziI+GR0PM1QPTXzEbGK3TmzqqIiOVyy5c8Z+PjHp05aXFaMtthRemjaQ2EvTNikwnINtbJz9CXURdfyqMe9aRMtXSjXLexncRFYdJjo8V+a6XrHg66crtLBZIRN9F1AzWqL5SAJALu4cGJpJjdsa5oVtrdgQmdZUipVk1AyKHG8aOCDRXTB+BJHOdQJ0zU8yLZKTGIHovDknu7zpOaeauSsoUsv0nzmHbIfsChq4jJ3Vxlek8xrfGJKeyRxUSMa4rq5RhUejzR4YyLUsRQFSk3Il2QMD5h7DZuxqTWHb6PcNwq2E64jmeCrakBU1eYoUKohXs4ywGT16Qiw+7NmZ/nmeKZK9E4iI5HzpK7okjOXOZLHwaVbvy84wJ+CV3k9+yOCGQI5IRQILzibfwWoKgg7Nmfl9lYbAn62kI1w11Yp0JzVeNpBTRyjjB3tCpOOW6JBOkCPgVmUnBZG7TPA7sOC08RRVKYaZ7x+NxnM0HiH74yZkg+b5fqTRqPHBreppXZj+tHQY7q8ORpqls1eqFAUWWrzb107Fg6unS4/Vs8zybz5ID0kLLHs1hj0+h7tkkQmvbwLq/wcgtIZrsw235ceqLtiItsitge8bMflFpj0PnHj4xMsDMkMYvWi0ln+mCoVI4e5acsiw44XpW7eYnCYlvJWFD1vrm/IIz/2AdAFGadlkxbJQYzGfeEAm0HriEObvKDbCPsckPiO4H87X6rS+m5YHy17G013jOD/PppykBe82eDaoOFfCG9rFe66Tm8tPpbjer+Z2aIgCrsq7Xs1rH5mf78u0RQooZDhVnajiIy3od1UYS9142reRVHioHHwFk17F2irgR15wRPxz7Q10t1f6qM3/npKZwTw7fPG4TAZcNp/Muh3pZLFGqDGiDB6GBjdTZTJ8ldDnYJj+N5eVnuoRcxr4knjyn0UTLmVMVVHBkvesANBvKZxh7Ymq/sNq+SfEAtEeZPbMGb/x3yjoQTt1eUT1YRqZYGsdntYB4GgqpkJDlVnzzjXJtOlIWQBaI4LE+aTARTi7lGIg2tSZaDEQg+5O4QOm0ZzU/Rqt+iYIQO51Yn9RfPzQzz5+wwc//jDFWOdtxilEhVmsdRvveA/S4ULG5NU7Mw2qrw6sV5gBQvzGsZ7VEIwM7taQzZGEuGUdeCrMUwxBw9mmCuUQrUCQCCE8ZaBrOtm7WfszUTzt4Y/pTjys11Vomqbv9CPEHz/So0avnPVBYsjXYp1pH6GwxVW0HHj4b4VFafRHpj8hY9Fl6+UEAhwclxxaBAVzyYzyIDUMfwpa7M3oTdM29d1JXjCJxgL1pXia3oq1L6rJp4MsSgku68hKsb1FkEXQ9dM8D+2HfuLJ8YFlRmoEf4DlLAy9r+A56vTRcx+kjYbGB85GLCo6rMiFwqFzsykAQ+V9E9H5BhcKrCe2sCigfT8B44f5Fb9pIbLxAJxZgsgWGEjfrwlSFkOZuIX5DsNcLeh2EoZiMcYWUep//HuAKujmAcY8kVyGud6pWBjTVRVa2ZB3OGYXCjOSyCVzN+ZMrPdWqogXAloGn+xOQTSoyDifutEUQtQDsgl9n4q6EnjnnGqXPVvJaWXFeKRDnst8CmIR+SINNd64JhwuR9SAjzULPt6qgXVztmDka445KhHIkegMKIl2Tkab9Xh5CTmbMSo5YVD8tKB2lKrccVn/dAAur8JEP4G90pnkKdIoL+IFnzMk0rHhXHbPjeWxTc6YPCxioXMHEPeembVKd7nKRH1A7ISzsW5KreAR1ppYXm60FfBD2Aj8eXw/OUoJY53ziEvawAA5FcYPHDEHBOk8vntJbv6c8BZI/WngEYCApCrDFHrC/aRizx4FsJ9gYlVsq7pVQYPkKF1XWwXhrbjZHOpJtGadWHD2azU7N3e+97TqJygtZ/m0DT/HEq4mm3qCS3lkWysrfs73ho8bWWRSveao/ziohZxXm4HoNk5AH0TrQ4EHSMLdI945KLXFtfkqdKL9R76JFNiG0MvfLOaKtUrHuTGfXPCd3aAapQXiBgwJZzAe8YF4SCpl+Xdd01J3Is59GiNC91zB4R4us3J6+O8igSBvACcQfposrhWaCzi0eKA91qD6KfTID4u1FUGzMG6GN4Mawd8SveD/8Q8333Coz8yO2rLj6M7IEx40mtB7gvH8L8gWULcNYftQXET0KOORsv05Zc7OO/P1HCqt7f+G/Ic1qxVxsGNV9YL4q0wJMYJJMRynd6YHLI8lwjkvHaqFPGA7tpqGIxOBl87cF9jrom+NDZWF0nnbYg3IxJ0dBafD7jt8T3wFTwjmDTjowHglQLAsqJb3vqRbn18NWFEzW2x3EuGh1U4TO04KxOX+mC17O6v9Ml2wGa3lD2whMZEUKE17Y7G/N98BPN4oTBKKP6JfJq96hbrjZR0BOsnyX7PPYcD+1Uj8d5un2l6JTozwRmrggxllF7jkXDjWsTE+eLdz+bAeBOFU9fCnqabuaPn/evH7WMfCi576sjcW8cTjL8k2GobuSc7E+r8o+TApDbjeumqlCWveg+fVT33WMXAZ1/+5N99MPVaHEyGj/HSQhG1lklIyZGS8QKh85xZ9qFo7rtECMpE3uDWngCOCpL9xbyZY0RFMX9SNlBGYDu+Csse64N36DFNjV19XCOSx9vTMdB3lJazNXmqMhPckevCq5MKhPxtKxyVQnYlHNJiIxgt8pyS8YrA8ylzxwZ5GzDqQG1JlcoYE7w/nFpZWO27hlk/okIjoLb7m/Q5ItlhkqrQbH/QqvDC4BzpGrAZH6VoYh5M+cqIwRmVzVJ1J7sErlczyCOXE+VO9EEpadMTb63qSCXjJqfug9p7iZb1RUWVO8yXfmr5WyRpovyLJkCkfDPV7zkcSV3junefobdFiUDlNjKM2LaRU5ouFTUT11XZVkZSAcWghEjue6Xrixob+wrYyigxULGv44ixJTq18UJWMv80iE7LhewuiCp5n7nm4985poG9RQsNIDDEa6uPRI9JtYsUrcrwxwN0od8JyOEAfW5N9r0uhD+cFx/kIFRtW3Ae1wyKeyv6pwhEmaUBt6ARrS+EZ+/ZklG0rTaN6z0bw02k5hYNIqgzx83y+PKKrvUx1TXovxkD1dBBlYSzdOPYLitXW28ceo3ROQUgrGEleP1b+u4wXxZplkRQ4bnzWFe9Tpk1NH9QvYFbu9ORV0zzhq2wKJpeUD3bWBHuF4a8nU1gQhuSX+mvHv4lmhDDk/QeQbZZFNFN0EoNsoRgcw24DLAaQlfhJcMz2oNdh5XUu9s0AHqDHPX8KecTHEPHG3bFvlPXISkg0NjMANakb5Q6F9VOxtoFSl4m5APy4dU83dNxHXMFhhGQk6yK2kRqj3S1xuGF2V3Pjk77s1/BqfjuvWt0enXL2kqsCokSIaJFL6ekk7zQSSYa9mABt2PDnVxBypAMyUcTg/923nJgNoX761vZrbAs3Icx9TxnGX7jSTy1Un67La7dVPIc27pGUmYY8RdXvhY4Nn7HvYqXUXMm+iXlLBM+8+fg9i0/JHvrzsQUDLeasj3ZOXBgYB1Cf+nzDqBjn+gBMLkoKH734+NIARRoGXVzJfZV9oq0GsLs8pQ9psFc4x6TIqlPXz6JEvdi2K8BDj5NZ2WOUOeAOWFNJ46aCZNAzPfdMtFASxXQ824tpzlSx0rqK/XZnFZPSVO1R4qvgjsw6UdycS6h1smV68GmOpcpsl3Dt8O273qDsAJykgJC8GY8eLDdosZ8M/Oz3GGYTvMLdP/J6DcT2Go+AWlanEJaDobOiIkwdRbqFltRkRkJW2x1sFY29Paaw1cDRgeFpmflVeMRcWDI2bC0tkLz0bR2D4kaSxr2qk0BBcaiiFy8Yh3eZYikVzh7yAgKDN6X8PPHmTNIZOObLFW4Vw8fZJ75GECDsP4OuwS0q4/j0qDQO4bkdJBh0NjVF6YolyMrDRFBDM0cwnfMqVH7mxZwRkIg88wCYtqil7ifRoacEU16BS0BCk8l65BR4TPwWMYBGRF8qgC2NQaWv2SA2UAmc8rjOHTfFQDsWJr5TpMS2dr3obLjc3CXQVXZulwt2wyAkF48YRuOGZb0OCWqAkNxRcum1B5o2eZkXoz1hTGhHLkMpUnX9nElPyeyw/l+udC3MIjuTyxo65pYgpayCWLp9ezoJPu7Ep5OXiEDgdLEzwSF4UJf1pMX4jGAL2mr9IqrF+3DtjB1g6INKQ3qI40AEPXwiKPJZFD+Wos8eUcLEzCAajOAhAlceorcK+clMk3k+zDunVDCUV6Ygvuof/6tJo9EjSUOUoHg0ib12y2QKXJrySD7Ug5rlmFffMqq+cvmKMT3dTdCxTWOcEYIwg2AAzPPN/WcQWVe+BAe/RMsTgRJ21HpMwcBmk8OLvIOYzOptoiK3lcf37ZK/T1cFZomMPCJZR5bQVW51qEw5OZ5w1XS5FXwPDw88k/OOq8uzmNOaYhxPBUQgJkiXhCS5MAmiUivvX3nypcrXJ+utIiU5B90qpwCfYkJIDCCCy+mEAM7VtdnuazcSA2NWd+cz1cqq/rMj7eJ1NM+9dp1eMNz9MakngtP1NUI6tXScMwdd73SpuT9IO+DIxMqFF7dcPTCnxz9GUC1Qp8NqWlxqeT7xih6P7N0hiCw0Kh6YU1GJnF6xdzA7NFrIkFVAcc5xxp8tnDiOCzeZfD6sm3Ks49JKv4hGS18466UYRXtFCj13v2VoEZ+c0DiMV58JOVsOOhn8EYQAZrCN/OzgiUwHgBNNL0xXFFHG86TjnAYUuLw4MgDhF0YkW4mJiiT+L1nXeJekxZjEG+bj6jgjCO1RRTgv3cVNC+FFKc5q0jI8IGs8Si4xaJck3fmBpTaL88nSBNCzcYPFaeZVbu071u40sKLqnGagwmmXqQxw9moAQpPb0sjVd6Z/9pRoDO+HnUqrLMz2OvNi1TbllWjf7BPqeWmzkyZURV9Fn+lRV0/fHH+YQiSqOrvfNCoaCboQzLpR0WclAq1uRxtGRFtxMrRbgviygG8/irrBI5gC0PPx7iMQ4uf9RvHI3r8GyOyeWCf/DPISLl46rWusTDXt9tbZ9K7/HtCAFMq9ab8CkFM1TlPwLrfKLSwUdoAaUu6gsvRaxAkvnlPMRrlJqsbfXNGlVPTMGrw8JVOWGgMAYMSoOdW3MSIfLHoW4uCXgKqZHLeeA1OddCYNT7gOQ9pITz9er5cBcTNtM9O5uw5FXeM+4LIzLW9LsNvCr930P86G+rq5HM5tWIxsbnhupTJntu/VKpknfFuWyFhxJf8lqQ/djKCzAMcYBo/FcIBhytjgNVvcUK1JqK6zivXptQO+ftwPLNRgmnKpnoPfXDdSVj7uHAEBJogWd6qqXFhJvrxa8NYNHOIx3m9tXkVaNlXAAg6lhfa7wMbjQmyPVPGJtBcYhtm3A9GNgT3JOfvKjchD/4h7DXfW4JlfZcGGKlWmnSCR8LvLo5IMlVGcVVtdwhYGD3rH9THt1jRAJ0req/U2Pp0n8jKZZ8tDXjYUO5UV+Ft72pnhfESt3vNuZR47LJluWkD8QW4K7KUa74vwJ2lYgt0hhzkooi6A10sXzsmSsGlNb8n8Bz8wjvc+9fjZfwxAgkFfnDZ8wNyvfcyPELSFO6XsXOYCB2M5bDC4rq8QenV0a38NqhdeM3PA+hjBC3q6PYY1Rbem2Wrcgb8aDkmDAUBmk4/YqiWxCQxJnP4FP23pB3NhXHRVAkfGmsSQ5Sn0YpBt8HL+z+HYQ7Y4zuanGhaTT2Y49+pqNAuy9vmXvMabBSsjXQ/74z3ZVvEnYYZMLJVr5rEv3xz1P/gfisKgvypchs7oG6B5+OtZVja7YkFQrr2n7ndvNRI4mMvMG65F8JcSgFYsI1q0AwqsIU/mN2Mr8fuYrkZM7pURw9T7z//wdaQs2om+W2QZjXJQ8vv6pfOHfC/HrUybjvL47w1UrJ7fie45uSoYeyLUDRGBVbKjNCSkgN9MSt+eChLfqh8hhINcpjitFWIcDpvkuBNS3r8VISwdBFptYhEE0QW0rJY1V73tKosXufjaCBE0CcHb4FCXIAfUcsjY1i4tlG+n7+lv+E2JLvIQkHj+YRZ21d2N17h7WdS9u6pggSt9TVWw5q2q7Fe9hQIIschVED1yCnqQHbY8uMnFCn51yozAjQKqSXBEjXXSBqK3OfsGAuk7fQEVNoYGkuLSFd/Jg2sWsqCSgziIHlUQ3A3zOUy0GboZr3DAw8YS8ks0VeSdLhJkW3tLamoh1mrjuYdPDsBRnq602DvC+Q7RT8a6G3wU2heq1EveBH+SU5o3XoynYogku87eWAHMlyCro+q7oiSnnnJP3frP77ankwgR+Fsc0uoy4Gjb5pIPuUZxhMOdWTFo62amR8NUk5Li32F/VyXM/gYtcx3TOxyxiq0RsrhfPEIw6E1lSZ8vQ0t0mOv+F+obmI3fyA2VXXvBthNRZM49RE6Of4QtdJ4lsqwPvxayFmjPFf1vnlb17osY8C+jugv7OZMYTed8uqBGTbbdurTSDHhoONYQDg+OjGutZVCrFklUvAYZQsplbVncO629hscn+ewXr5hA7qh7WlO2dEYfNTUeDuhUNPo6nFk3yxpYLBOcYBefmzou8yeO9CQ0wMyLxG4GucQuZyNXtHjJOMLmZroZswtCPP7ylHIzomTmHcyav2R+bOCZouP+d7+z9/R5Mzddi3a4aMC9CvNLJ3a7s++HDPU1445NpjsbshmSkkz8t2MaSe5Ir0oJWZNqaG/Z4T+1qBGcO2ueG5vhn26dcEP4RU4Feawm7J29Hf2Q0PMGRHe0AYVkCHwV0QqVyNlY+1v0ZEsD9P0MY+QN6/wz1FwoH/5Dem/OA7DQQ6xvCzUcjX3jBsPGW9oRaSbsD9LRvMdJ5SW0MtjQ6OaYc+xb1+eeNdZGCK/srt4Z+/WzHl911zh6wL+IhmrRMisbb44GY1j/ZumuTXuG/79soo0SFjfgH8zmAtXyDJWzam0fugRqnm6H8XmVqSnrYOU+/N2fruGYQ8nJ5K6xV1LXDA4SdyD4lAWFjAA9LyU19gnPKpJQmmoCUEkGBigimM5yoAQgBD/cGEoF+WhkdMeUwtEf/YELxFssgaERZbycmVi0Afr3eW0yafZtBodbX502nwtt2R2OU+zWaEBicMhqi5h2Mpzqe5rOODxqUKCkgkUMTAMiMKhjqBEW4FDSTGNPmHj1JSK+hu4iOfrsSlxorPnqKfzAI7yjyJ2EiQ7xqNshbVQvdKgvpNa3Pe109Uv32p46P8AgdMzuqZJcdmUxJagUfBOMSTzDbk2k/e6KJZTLwjBwJj2JGwqUg/6vdktlVcia5ULJUNmZ/bUs49axrsM5Bp2tbvnIfRPFKipOTf1Fp47JFE03Zlc6MxlAyXjrfJCmq6Rzv/XYSIQLlb2SU3D+kHZd7Vuz9C6jIlmuHOca5dGr+CyO07x+h0zj/Zs93FpJRVNlQ5kr0wbp1vVqxvNdFaWoevWeVYyPb36QoCq9LOnJY37d4yPn6fLA0o4poub70aS8HEcXgFgwdwaE4YZCF58yFDJ5JnQY2CDHwLJUZai8T/YPMpeefPr9P5KVBiAhk1f5B9wKTWfj+XyL2hNZQgaK5DfhOOSbiu8Hmd88LPwlUeLMGAo2kA5alGOWnuj0dOGnfbfzLZoJu/T2iuZr0k+Z83BTwyZJ6Ow2Bbr8jpCFgHBgdeEZt25sXIb4okIigM7PZW+jDCxElPr+X5dIYlQ3u5E3ioNAFJkjTdmVuAyaMd6c9G+DEu/gPVhqy5msATQMsm6VwPj+Dv75FLb6oaP0GILIddT48gNLUVhdu8n8rwWzBTDlILSVFIVbuln9fXdblqas/iI5WcR8Prf5tfRUhE8rKDeZD78jOYlEE3/6Tql1qQoR4Qk/vEykoblpKCbR6XQ7DjT9uD7sUS0Q9WxSAgZ6vQgzrJdld94U8c8sS1WNg4kmjbbnBZXBsfMBnBc2my9PS9LENHsbjVKH5I6dnRdjFj05dW81OD5BKMbV9GlXleNcx/xuzWwsFdamELYARB7BF1hWALTT4HjctwiZt8q/H89hV6KM31oGONOPZB9fpf5FRLVqRGoxOFdGescEjM1q5zOZqQ40pdpmAmGvBw0tqECd/IN7RqZtm5Y0o8KfU8sgsS6S4uvTxnLktU7nna7yMpZN58EOm4s/tOTnk4F9Ugc0zEXokjrdeDI43VeFEx1riWyIQ3exZEbp+VZ6tStxRid1vc9lNXLP/VxcTRlmUJh1/8C6UeKrQEZWInLZ7gzVbNH3xEGuhT654tuvk4MNC8Eze9q82AZ1i/XqWPPrFxHp5MFoJPIy23Cd7zu/c79GUSgBSRkjK61zN79VfQy7S6jGljURqeVJwI87Wq/95V5LB+VMtBK+uYkPC1apS9U2VlRJoXeRihF7oFXRg7pIAz2aWRDpmBhmEf6s8T72tePQPr+Lz/fB2WRxwd2pCIbZ/9M336j6LN6BX7YuMSNLkkphc/C/7kfr1ReZw0GdPkg7Y02F+/JsZrrIj1nAnpniLGupufyFovyD67FZMiKc4AZgpnvJYmXcRdBPPsltvatyHNrpFApAFS+KFI8bv6/aSqVZzqtTeB/2KbRA/IJf82MFfHuSFRvEmPxvTi/G5yiv2wOFoHDlXJYrm1LJ+Eif2JL08Yb3p+fpeu/4tAkTNh8DgIjz3ba39YUKQu0g7DRs9r7YniZDxQFvBfeMmQLmFxYLNn0SObZ4hzX3uG36nQA7Mqe540/HwXX2NlCvGFQWE8/159tmpNKV1V+/09kM2CFLlalPj52PV+Rd7y5B5aYpolj77FTv8PbMO/niByUKtPSw24eJrCpp9ZUN/WPnFvoaFV0LTQt8EHXW7PB2D+HDJQKsro+3v0V+wnxE0Tm/GFXyUQ8MadaKzIzVGVqB4pOI+7lbMUXGTbNHbn7vRfVNKv1ZLmZ+X73Q4KNHIF+iQ3aZTKnNKpeLP241AMR3WKBR+IN7+4aXzPPYYg/BZkwgY052FCNmAWveKoP9lKVxrH9ULNdHQEaruT9GOLrpYHELLbVeS06jR7Vh568+K9ISRSY7EjpLf/mimSdljmlGTLsH+/ynEJhLJXRe2WuxixPEWhwF5HJoqZ9C9FOsQlEbleFSUTK++vOYSIQ5yJxRvMpQxpVpaiqJGkUqbqPx+AmErev8XEmfTRiQO6fRQTtcq+MuM8AnTm4Wj2soa3aA0LGVj4D65EhuUphQqN6KKAtDxBR//40FCEhI0/P09WLllX//CpyNbgJrzyAUWgKLNcK8srT/0zZpHM0tl5xMP7b5GMsbm4FONGbtgssAZ1YCibeeD1s/316g95qLCFcyJL8vkpu41ecP1mQAgXS1a23Bdpr5fkDEjsaEb47/8RW585OJlb4UQdNXILKs6biNNJ2ADkaOYTgFsUfrlKI48qw09H/pAGDPr7vYoYoPy7i+itVg/e5SRmvL94fuYZRjNBIzpqYB+ROhwCyZDKqvPoIdiddbXBfEERR7h5JOFxK9HQGSdpEZBb3rpLh8El1We/z7rjXm/5otw7cidOTOic+LLn3HUApTE0SvsEzwPoXKqGeXdF5h6nS3vtaV0Hb0/C3v6ZjOHWj39XTMZ8LBzv7mJmFGaIpx1qQbs9PNxPB80P58V0vaKHoEIu5YzXCTUceKPZa7h/ftW40/66IhC3dRc4F0pe6f/sS3Hw7Hp+z6AYnRwGxkiXPYUskln1P2vYpcLKZYnWS/G4IvpHyVOPeOJ+wIFKdY6/Qa3aCOTbNeEiMoZM72ychz5La+GXy19ffVaYDm6ZkOjXpRUOuOPEmtVZqQ93Bumzx9wIxIpKs0PQNCSMAuPfk9qxKRmjZRDGL+DK8xuFF9drxvFFX7So9XYRa75NPrG7WvWhAVTFbuxRGUZauRf4VF34WQ87YccSIL6aqBLZTyWxNl9qaYDb2aYIvyy6Gj370BaOJ7fXpnaQEGyIq1ZX2vAOBo6X3lZ4VAccZL68HGbM47szfU2zXr1JelhKf0oBQcurXPThkLOXRAz2ZONX8gfj9MQSnJ9cJkahDmQ9iVp53R2JxyJgnhNBxy8fcCRzebbKnco/0lSkwt95gmK5v3wTPg/gCCPX3c/8eNdVphdHRYAU7jX1kY6pqbAIfD7+W3iNeJGY0GxCr8MLkTy6VSUJN6cLOFmZZ7H8wt96afhhKwtc1Tpr+nM4BrtNpByJh11QDPbfZ0FEv82/tUHzSamhXHOeKaiUcEz5w8JgZfFeD8YncLASOrtyxRWTNAgkkYTsKE1upy6vqYoq70BgEwchE/qAlzYeFOvzbKiYAdXqmmLM8qRQEden5REtPnHdIvu0B1lDJNDcbVYzggWP8JRgdVtjCUA0WP/MCksoMr715vm7zE1wFSW2lSvZCA3QzJS514iqzDgXplrB3d0bqcTS/pTGLBDfQ3JdjzcRJ/H0FYPE4OmW+gozJIJa3kqI6xkRloOoJiN5dC+sdfAEH2f9AMqci5oNvOZtKr/v4jN/5GBkJBHiFtFK8EfBG0dww9SgwtI4eY93SoH8uHGCzxuHIYrwxMVZwH1ljwMmIph3uxsRZoLSYjlWiw5+iRoLgzOOVUwdHvBdf0Res+MaQ2YMgLqigN1V89ZKcVaJY9V+6Wwh1huVFP/OkqMWuyAgCXwa052g4jJv+iSCQ3ir9zGFYP+fDr2gUmz7l1QfUrJBIdFbuYkwD+YO/jgbPyVKmDB4YqGAh+D0OgH9xtdKsWjIjMgdoAxKgkWzTD6dhe0JezWm53aM35T1ciTDZ4gc5QL/HxIHthfHLA65vlSnCagTNZONtHuhykm3FOblm7l+pi4sDmuAoVnniA/wH2njMQr7N6e8/TNH930us8hNzgsBy35hBJsjUCM/lA1jwKLmaFKq3xKmiqBKJVGOxO1CgQoNmkdDByjmZkPJrv+hUqz0ndqhr77qhuzlICkMbNMA6tOrSIZyfUts8OU+ReMP1eZQv6/jy2bvyr5bBBROiTQ9Hw3fo/wCf/eUuA5Uo4L0iBzXO1rpYU2kFH3Mrh5cqSBvMkguNSCiqm8B9e76ccG0R6X83oKXgRzNluhc2yyzSyXajP1hiDEDjvwx681yOL/tR7HZ0mqGYxXxT2T1Uote1I0nBjIhwqJfJq5K+ZjTNcXFdM2bnOyBA4rA9VLrxWtqcEucmpZWQ6D5ym3HxYGrP31ibDPEFVD5tK9iRQiukpImyQ/CDZa1sPYSKNK605+Rdp70KnXK7+GPmjiT5vmxVmhbavWwxNZeikBb01FWNEjWOnWgJDGhcSxuv9gU1U2rAKzHgm5iggJFYTb7aKNuWrLYKe9TSF3GGgKLFv/qo4tr7Bz7LINKD3I+d+2ksuUrjxmhhrPdS2uamU1gT3DmBPRW9XVzxjYomA5lVUmsKYfoOi4KGAVv/KdduEeB/+NGRC3zVibI1vDa9jmgFAfkloNPCKiMtvlIlEX4a5mPuhmFxkxmWLY+ABbL7PD+oui90djg4AhBrSUwgE9IcxIF7zx3mfWkOQ8+pxk3hsfmBP175mhPmAW8WMrQ8+BzmgJxJ9xCGLL3W64w8h8oRqmOO1xA88aYlA1YFB4o+J2kmnshHPk/4R/fut08/yDcQ+Xdmwdhxf/wwH8Wcn528h8JXR9DmMdm58d5Ac1xvDtyZApNkWbBxg7ubKmkmJNgPR6SsJ6eKKXzoDo6XhioFYGvpGbW5F38qvgtMEW8xUVjROJPGz4fbtpMIhQ5gH0uN5D3+/vCIY7KzRGOiRTO7vr1C1nYkpXFB66K23Q7O/6/fCwpfO4EEzq7PSHIYwhwTqt8DM5eZzKP8Hg4bl6Eu7yA3Q+Ztt0lCBCRioNYVNljxKTEfLNmofbM5Ur2v3POEuwpyXkqhIZljhXhWJo+zZ+sQuKMAKD+KcPxmqEeSV6OiTbKP7fXnVdr+BPwl33s2jXZFyoRKId7eVVybQoSS4/ivstTQu/0JexUUaNXvXwS2x84E6+VYRq6OkCrEAJYrHURd1eCzmMUTcTYSypvT64GdqfOVsuZdUDI7E5ayVLfOIxcmaMpqPznYG0Gz3rJ9MBE5HHpRI24aUcib/fUqKtO7ClDAL6Cz0A9ESx8PFDvAhdrIboQhlQUniFonXePwabxevRjk748Kz0UKVgv2ZrzJov2yBoOBg90e6oI3BLrTO6VSI4SFjlNLGbYd6iI2DpKrTjgxdYGWTugh9y5qrKh1wHCSWKVFeShUB+ig450OfhgT8uNpO3tTs2FfyzCX3XkumcRglJOmdeFEyqPQoRDmtRHa052JB+nCJVpP+/fSgr5GzkJPf29rFY/93ZHN8n5F8iqxJ9PCwApoJ81TnuiIXDgr40QYx9HfLJIr/vgna7ftmdxZFaNTmq1HsTr4w4v46MLYzX2k1+Q1newSdGnQEe02GGi3pRWapZ7m8qoXEUVPrQOdh/KBaZ9IJsxGJk0zTbTE1AF6iRjl2nnyJO+G7TJyEyKaurCvfezcmWAvjDa2Gh2su8bZ7/ZPTNFUhW7o9iSsOtpznkiF/X79j6HLz7rMPRvUBxM/jG3u18244f3iEOjZA6hCAsVDU8icgQCOsZ8Nq5zIsxoh8QynbTpAmbklT3ciqIKvUIvvnqvdVTBfOqe1fwH4qA9e9bwZYW5xCkOJ6Cl89y9bPzXwRHw1oN3msST1QWXVaOSwrd2kYFN8CK3IbNN1JyyZGjZ/28jgWifOWjWzZRFWRGBzF1k4MOPZ85mTI/DzQXsSn9y01YsDbxnHlcIuJMjAZOyXPkWEsFlQ9b9SBxwSbKTQGxyKzkm4nd1zXord3KvoZ/jEtkZ+zZDtUZ2mUxc4EGYaJCDnB2RAVC2a7lBG4uINw7AxK6b5jtqF+bxsWzLZF6DlGWG24Lkxr5km7V8/oyxbItth5Z4vEq2OYftf27pImpJS5rLHf2O004a0WxWr8Yna+QPKafSTwxnxb4EdLBDrjl68+SVjkdLoSzsBPXkKqZ+4iTYd7uGM0lVgRRpLkCHlBZJkA51vig2xcaRk+nPH20uu1g4LOsvBVCJ8lqKbJIkV02tUg2AXPGMsqzWoKyuknSf7vmANyuA9iRUT0xxu2VsmhMJ/07WCbLBi1HC0W6rQ+CZSXmaTjWko186olHY7DqYjnJG8+0ZOqfY9F9QOy1v9td6T/5k2pgC9RKQRxvdeBZf+bu4O6OmB/EsKpuX0eOy++fWW3Eu2dAQyZQVFMG2nNp6jMmhiNZIhQ6bZXxRIPcABbmer1FRujBFJ1FHQnkWIW/jx4Hky2Jn0RfPexby6ViLljAfsaGjXgL4N4jznvM2gjGSYXONAwmQm887KVhltn/HpRJqKzHuvYhQeQRJg/xPGQopS0NOJbPh+HMQfKIZyX4rmdfPjAy3DQVMT/n2KaiV4kjPSV5kqkr58TgKaXPZk8tKpu5yJtiL5rElD/uP5zOXOa9fchnn2B9Y0uRM0ptqTrWUf8URZFioWuqPzUlJsOB3TvcXsKCiIHeRBrss2ZGRIkmMeC0BQFd6+HecxpCShRTjItM2SR9CHPojjm8a/Laotrt275zJt8wmlv5hn9XzalimvnHH343UmmDzUxgen2sCnjjflhcl4fbyt5pHN7kVoMtsAMTv/A/bstRURzPHk0zilR7v2rs7p8Yk66awE4n51FKvmYkpE8O+a0HPUsyesgMBJwk3g9nhdE5vVaAf+mpy0v4PMwbFqoxOOCjWG/Mcw9TLQxeX/IRqxi/UyEGgCYjhG2nJn+CoyK+eVccaUiMqiGcHa9wMzToPOEUwGWcpBm/m370X7qYX8P7DKI9zRZDjskcW+nzpqsESYp35hjO5BCyCsYw92+lmgCvZc2pOrat5IpHk5CtWLRKIe8U41ffo8YCrZmw8HlNNCBJtmvnonUqRP+sG+Vyt5IR5DAFBqzv9zshQ1eAppQuDN+WlN9GtFvUvYI1uGhJWW8DykUyiykLYOobKg9e9pqV8ET1CTVHaCG/scnCmh13iCOmRucJEmEe3Sr5uMrp0/Wz9myZ6vhqWzY1U97glTeCZTI4+VWIDVcygZvAUz9Gw1hDcUo4fdEmNnoCExBW+Np8U2P+SJ5lgQZm+DvGt3ytIBhd0LMOPN/iAOks4X0Ima6rlcC5gncEIJVxc5ojKRdBxRCY/bF+p7oeQrWZpXykQ0s0fS1vW388qNKU9MAJ1NntleqyONOUGXCJqVIMouYs79pfvYJ4VIVoxB4HXfBdSi5vcC2a0aZB/DBlqVybwxZ8vAxJi2vnuIg5u5tm1ImKUm+aio6EQsB+dFJ3dewWrmVr/Cd20dCNF+mSgYrxV7EpFbloNAO9tmxdO/BGrgvY2MlQ8NPvTmVmWCzBbsMYhQC4HRmjyp9cqWjZLEE0SYpdNvq0+LqFF7NaLbPFJm96DvyvToNAN23clxXLuY3Ds1jAN2d2//LITSXjQ07Ct3hHXZYsWjPpF4Ky9JRQdpbskL+1+BH8ZfA9xRBttVawz7X/DyvykDFCgYojvga0RXuZDYz02GBfTcdG1b+qdpbBRiL4GKKeTGsRsxF7x7dXwzqWCLQUI81XGNQ1ixQRNU2bGyQkqZ0jn9tu//qk5q3etTjyBtAdtRwuMjjBdDdaBQDGOHHSWLYnI3xZAxAARbKBPfRXgZ018Z2COYY8nwsR0sDkj14TfpuVec2FVGCQlTiXV0lzieWA3ByRz+30QmsRcLhcexVQlqd5f8gZ5EKtb8ydaiv+JJ7snmr+I+m3BEt1mlrtABwy4N6Bw4Qt32OIA/QtUPVR0FGe51hGAyAnQmfwq6XRJSptCWp7VgB/hKmA4018hz29cuHIlap0deF/fe8RDv1vI944+dYsT9FP1D/Sjg06y8k8G61OfFDatoG69kd7HTwiKDEkjtBiDaxkEGcp1e5II7V5PC8qoKjN/O42kT847q56jOZxxpU8HCKwc8r2tUGgs5vSRlJ7afrfCSPwPCFEeQrsuEy77SvD/myMrFLQyzq3BjgwZuQOopY4dIFe0QUILmX6PDklqypn3G2v52VwnO9HlOtgk4PdMQ2SrYh4mif1nWpfizAAn7rjZxDOu6IMkZfDf4rFOiJkTkKJMwwNl3GM85Z68UMMf25o5e1KK76UHMyQTzfmScd3Z70rVL3AOPkJAdaVOWtzyI0hq6NmS+g6lQztxKV3brXKPTqns6ovnMwn7gHZnucV1usX1k4dIPiHyB69kKZDHxoHmcGmGL5L/Xgeap6cOMvntVI/HGdF/huxGtlPTDBUkcAiL0kAR0olhD/S0zx+B+NYBxuSm0rLCNMouFTxf1d9Sb7cZA+hk3bJCfPJskdKUHNnwuC2fp20T52j9WjNdL784kdLsAVA5GHXb2XSWWnwJYwAK327XbfwukHMKRz8eJwLnVaE29+RVKEtTYrmq9roKHESXwS07yBn9z2Ego3Yh8qe73b0U/QJOpDTwiBaZHnxDRzNb2zK++Urb/ZR8M28YTw0936VQrBUbspJlc982Oy0fUyriv8N7aFoPEsMW3soOOF1YtgpGj3i6u+xoeIZ0mj7vbZ0+UXsU87lbgU1/3VwT6oAahH4tpnM4vAiKsqhnixcSDICkRhTv+w/zm2mCDrgKBnPgIHzCZyZ1T/s2hzX4GSMnm22dQaGUUM7QVeE6UV6mkOoxgcoNGh6vkXOxcUA5EGN6nJqGAGRcFhm0iH57FnMxJNSmY0C2UloJpMNBmc3LKL25sNcXrNhCY+HNcgHvItBzOdFzDFO1bbwMwPFDf0Mc7q4OdDiCeRdKacqvld0xWpjxEUDYKkV27+F66/7Okj7b1mgVJWUzjBNXqM2qYHqWQUM6IxCI0NKedtGSavuZdFMpgiENj5sLd/sXsP1UQz9Kj7LxXDcl7KvHmZmlhAFXPNzzez/+/xL5S+a2kUZja0jXqVcndeRF+eYq1QzhB6QpA37drTR+3Wo9uXhlaSLUBuvCLiw/Y+r0z51f0bVIO0w0YBETIba0AS5vnRhqRTeLLVTYbe4HfmhZxty1zMEWxKZD9b/yma9JrklxBn5j7K4+LN/D5cuzBmkVx0CsvTmP4OI6xGEpCCVnJwMBjtOrKYKSntoCH/vM0Wcz8BpmQukmgZ8ozfmGLGY1iOsgOJaVWlD+iPmHiM6ah4de2vZ1wWfUj7XlrW8D59zjhPD+aN3ujoz4q6mqJTfEyCrA/7UAKBIDNBdEVShkk/+fD5NOGNT77FUhj+jxK7UhwmauO5s8LOZJFnX1T4vSGt5iwjNkVTIK5mUTBsGyTKBgjJsMCtJj7WJxLhhff3NkApYpUjC1hfhjH5EUlX0GIRUMT4vXo/hAPfMiC6QjjbIS0LoTtbui5cyIPC+eeYsRk0SZ/f/Q9N+/Cl9R/Y+/F3HUwnE82bokFaV+XKlpTgb5GOvpZuZljPTNg3yXM7H19pGrDp9FKc7r8lU9V6+1WqncUc0uZ0TRqeep5hGZJoUFIr0QPDc04PAyEAO5RB7tApROadl70FtJU6t5IbCdXOwo8hBioMHoL3MGuHD4Yi6Wlh/7ecyumf36KIAIXj5URUtCHGsuKxVgGJSUmrFrKBWZntRP8u1jlqpHP6hbS30MusEXt3dX3ucG8a2ZzhZZcjTep/8woCNDtpysfcxlA4awdxa7KEpZMD02evRAmrKrt8tXmS2x6AT1hiCPgYYxQBaZwQHxhCMe9cFTpW4XUxXU+QRTb2S4prCmvSGpysXu/V+KKWS/GNhVaDlFslBV56bi0/nItJMQpx7Q9bi3sItGy3yN28bIp9mIxplD+wQ6MXXwXfGtDwod1dbisBwGQUTufiFErmnABnlsRv77wZY4nFBKi1sqMKjrcAImOfSJJMmR6L3jguaSccxA7w/beyXYvyvO/TT3YeIVtlRedKqzqA8Jusr8PArBdXYXCB8bIY8BL4kaMW9uVd0IQUFL85ER2w4LhPlkZdB9QfQ9Bx84P5b5iG/EymC7lBEWOeOYKf5TZ6AVOtJyaaDeteE1JLDA1eBUByRcqA9mefH+pX6pFoui8WZcEI7jVfgKqciFp0S1P5Rnd8xdcAPtqKbcxTawt1BQsmew7MNtFvNuVb+XkaE/Tio1thR2D2pA28iP8wnmSG2DWfmZTW/nl2e3Yyee+sjqM/YGJJ95M5nN1KcUGnFVvReVBxE44qnw2wzV0PdccLosgq8BZUUo/5qZqHLcwf5JacHFHasEBlF58eNsM6xxmNUrw4dN//EYHAwtOeW9XvzqsV8EcUlMuKiVRdCkH0l+1fie3uT844pLpfOgvxrNeLA+KBkdJ+OMcKKvb4JblBJoP40JJGMKGXaExz0+MCpZKbcTvRb2eOvnyKTzKYHqh96KsMJMCqIVlPzLcy+rtwUQ5dbdg2mo3dGM2N+mn+Xx+64lc7khNwhd/7duPYLM2m+yZ9KnwbFUQFafgZTvKHHJVGXe36c/8ArKuBbSh2VUNqCnMxc0bSoc5JHz5ZyP23gVYeZ8ZeLeJrBr5Sf+XgqF6Ik371eXPqrfXyOwzxvs7PXuYSyY0SqoHxIF8Rf15ldD0tvbMW3yOde5wcCPrb7GzTJrq7H0Y2soTrWqfO9IotjaB67eA13DgD/Sa+5EdydBCKCnoBObx4s+X1JY+bc6kQ1W4+P9p1f6C0BgSUuG3DiTP6+vipP5U/8RNRuXOTWi+9ERUlrpM8648IZbOnUFWakjCBkiIC0nE1W/NWWkenAFSZqPwqFD+2qQ0V7Y1X989v56LCKoCgEnyL+s3mLldvjbfJWfLjooU+xLe7bEIgMxA0O8w5AP9+HUoK3psUYP09bUAXYhtatv7dxACN4WkZX8IXLElr35o9RTenHo3QGvIhbn3oiu3jcC26k+gdgeKS7C9N5hTe23nLO/sBKf8P0PhClvPH+ucyieCb1X7Kv8RhkZ4dPZGJUYmmME2DzWHPzzVhOTi06l7mq641guU97sJVRqsrc7kWsf0O/NcTsxLyTMZbA2Oq2YOIHBXeA5tSSoG52BAdiRKoQ94X0B322KwkokJDycdgH57EF3Q8RVPctHJ3TSbOACbXPopJ04YkzJ9vB6R50Cw1rsmWQ4L/bxuE91XpwR79Nv/M2ovG+araNdnctDuPVynkpxXMzEwrO5JNK9K6kOwhJstxxl3enSb6QY67hGOVHznt+lTM/H5rNHx0LG7CJL8NC1jBmuJTtNa/49yKrTHsRAt6qWHxZ92wEy9A/wQVEjMMX47BAW9igM8FIyTVEy0fhI9Gua4v+lvPP4Kgh3q/Gr12gNq6KBVI9JgC2znsoQbva/rLzyi9Vlwt6quS6PNeNp4U8LvG0hoOjnZ1+yBtICt82A/Rv8C8ZQwSVS7LxH6kzE+WHYp312rG00LZOjvMzYlAokdn4OJVcOxlrjqeqM4z7xuIv6KAoVUEZF5dSDCSc2e078QXz3VBN2VgKZH/AHzAY0EqUDGrQ+2j823xLaJtQRLoPCv03LS5tTA5J3FqqWGz6QAvID804w7X2iroiHyvB+l6rqeHKBLHMiZK4UjOqhUfkI6ockA5Z7RRQM0X3TANdHBoV/0H5ZYs72uy2cy7RfZYmJhlpXjFmT7Zgq4Itb25GhYlLSRQTVH7gFsM/7CkGJ6qiP5BACYdtYX0T4If8OMqQljcvK1dhXgpnLjl9xlHljvJV64Va2cuZiDF6poWE95ouOO7GhkHQ3atzKyKTRmb+wkDoTju+hMT1kqLAMX3cAoZn9pLA833xwNeh6zy3M4Wsm73MgGTK1m8v8M1kbolV8AqegsQ79TadGkCqTz7tAfHmMrmJ4iS9aj10Oaou7zFYcCnaWDFI8q4pg/n4fJb2sixDXtM4pw8jRGiBcHQC3Tgva8dLdQsVD41YpWg2irurRBudHtM/7yaLFlto7I4gIV/SRXQxkoCCdFNtAKqC+4o2HaJVajYclUKckLkixQxN+VCWrrWDg1RxC9pFie6NG4ISqvGQWFa+4tNbkMUzvRk4o9E/+dUBGSMTr77045biP+fsETfqH0+KGtpy0k62wFFmGtQfZf5TKkOn/k+FJVchwa7dN2dEb3HdRCjITsZ0F4AWrdPOBMxpMFVgKaVm12K6BaD26wuI5/jejGnOfNd8dr8vQvNTFvUS4K1O5EAbyt33pzewp7nBfyLwo1Ln6Rk6m9F3bR5Fy/J4CdfPPG/VWkzXCuWNfotiBZqdoWfZErSoVEJ8EjxJDVRPMrov4/w4DsqFE0vP0E0pFlMSNuKPMoAH9qjQj/+EzGP5/8XAqTBb1KX+eeubw0bh7PN5b2Kk3IUQN40fxa6RUaF93b0qMHXt7ANbhoYa0v7XS48C1OVSXaT7MvBCFfP/BZRcvDfkXbr8xfFVfytW3SSNBmk1dxRQMKguOCYv6VBH/17IKM8aP88Xd3Di4jaRKLsea47mK6rxHEfTqI2qUQQH0oRuDyuXL7AnOeWHLqLlC6lLkpLptu5oF4eOUSpq4DbUP+mjLclpb8l4xIzLQsFqxET/ryYXSU6DEfQmLgzdjShDC1wpaa7A6J2Axn4EOunkbzCc1Jl2rpOW1QGHlWcmHJD3R40SCTU2B39F/zYwcvRa1pSyZHb68Nj5rTnF8nowzP41HmwAyXyBvd5IVKKEr3lyahfLlC7XmW+OZC18vnaO3NDFnAxrZE8qV1yu8mQfSpPG/F8u2zAKnUXd2DK8T9m+vsVS/LMhBOKcrrhXVf7HLRbsge6XJXHU7RZC5TDy+ruHAI/28IAdoY6aynXvuMAmJTlwgkpRboUNZu935wM4vHPq7j1BEz5n+gG6Jq33hPB+DbDxobZHUzFwjMXjndx6Xy7KDpZuov4Hg8UTFweEIKn9IyJOFw9JfcmJwrJVnl++CIgyRReoiAnWDO2M09tTyqU81lL9uvK6a/DwgGrwMJAMDcemqbYdNULCRIr/Sye1IXW0ywA/qvusLvUnvyGLk36i+U5I8ujREt7UbECDKsz+3nhiStjfYsIDJwJCSnTJnQXc0rBRKfbs3WiJnvO4jK8VGXqPi6fRIV47IJB2tftr6bz4fkLlF6XijNFhaHBiYWTluSDNncNQDx76j+2mG2fte0Hs/plhdk7xl44wNY8PhI3m71kPo6WUCa37FZ89YjIU1k2/JnFZlC4wVzzzVW8Ymr6UBh9vHWJBl8vTEU3BR6JSlouOwld2+Yeh52JTkt7JZ2NHyeyP+SodMIwKFYi2EHdX8gvDEkF5BpByBzBGbm5Na0kUECweU7KBfQWvGJYY/t/nfim4wTbf558u36S3T+1HtykRwKCGb0KkffVas3rRVxEAHnUQMPJxv5upJ5YX9Lvm//YW6IDNsLQHEu3YzOEiTP+ImP040fkgMl07pHiQ+kTlmpdY827JLAoP+r3u5ObGsXlSB0wMhNhfLD+wbPK0KZ7pI0xtvtb/FPDZ8xKzvy7Xn0diGWlX7I+6na7eK/JAvoJu7Uybc+o84LIK3nDwFl60W+766TFsY41v7Ws2OcZ+Wqu0ZdU7PcjCBMiRsff378xMx59mtqaCvZJ5uASHMFiHaDSTcTk24/2e69X1GEVUXnUsW8HJgTz+yhEV7b5VxeCZ0HlPGl0t5o1RDdaKE+14lRCW7ApGKRJJlEllLCrEmCMCY6uS4bIx3rZ4Z8WqBIXvZsPHArcJhuT1E6nWJWQYr7hTrg78NPytJiKJ/wpBcRMYGCVLYbJ4L+OPBJT+PLJmwX1k4scPMavqDi85zRCrxXsJQsebmFJFOxLEWgQ+g+K7QJo/1orhZkc7VsofGCTq+VKNlHL2kGAv1Ox79pZXYu5lFfBG8MqsqSQ2Cui1w6lV4/aVy9Sd0eT+k+LbtR66nGGsowgTvTzEwb9+dmD2JY5b6AB911PFiDq4j9TId+sY7D446SKKdEFJjl8b58wvM4+hkUTzem/YyNgSISXvQoz8BjcXzL3/DwSvB97G1jt/iw9Wev9sn6hUTBshOIJmZaiWxAC4RbJRiHBGqqc590IH4E3tB7NtHQt30tpNgkRSOGABAw4wXX3UrwkPR70DB8kJWGnK/iEUn7P3Ja6qQGP1xGxPOe/PRYVV/+3nBlG0sSRldGvYoKZwzU2Pbb9VcR1u6HMELcR83g0gmHQTCPWC0wYtbmD8AcpV/6mtN8sZ/sx4zPHyy/q1p6uH8/GcQuUFzTqWU3cjucA7vdTMmm35D4ok75tr2hPOFumBxWNGENddzMFDuCfbq18Y8CTMBvowqsffFrk3hwPBzJqmyp/hqM27Af++TOEIexp1qxpfbZiJJS6e5dJxJM5MppspXpbBRU1LqpqVkczpaOPnae+Hq403ux8Y+k5qS+vUnj5cIFsC5NHJfDeTJdQEqtAUtYArWjLjCDpbpVr6SBWRTf+Hhqfir+gOHFho1Lcpn1VNS1ZPBU4jD4zOreyZK+aQI06Uwhumigz+UwUI/EkVskOg2XgWmIQpdvTkDceh+eTuZTc12+pHlugTsREOCAurZopA3sJaLzC8VH7Z49aZPzBjDYOmUvvz7juR58vNOsRbiCdvPoinBH04C/tKWvcjMoAiiqeUMkpeJlHy8shPc2s3h+euOTae0cUCW6bLVJjOXTh/vl9cqfw4KQ5OREhZ1qigwN+5IayO1ZIOlckKPtKGi8PI2T3nzulvl/gs5+NncKubjFLaDEylgzoUBn2gWaOtu3yqmPRs73n2KOHwbu2i/k44yvBdpkHmLVP0IoWSncBIirWrs4NJBz0L27ueR3lH9J3d7m7+bY5b3HqTAmkjmhqA/GKCakG8azQijnyrFkTSWS+hZzteZRN+PtlGJWf30+hI+HW/87wcN+DwY5gfnDqXb4WFi546gV626q4M2LIvwWLSPKQWbdn0RDpMcLmxTlxIGCIhpnFrgBAPlCZ1Io8/Q1oIS0/QqEOTO+lWp/pEaNo8vXXp8hlSWUgpI8uczuZXkrmHfMj2lNEzlllBBk86lwXSctr1I87raazTnrJTonjt85LFVgAKzjymGABGugAiCTmGBTZ0YNjzYutEo2oTEVxeSPGqZVYrf9dRynTSsr5Hdpr/9RgAIV7eWM1KQ4eKQgy/iz3TQdE4M4Dz7OC3N2cs57QNUZrcAQQuKOdSD4+l8wyS5dyLyfbjbrdHfamMzqnvu3SZmEyantaJYCI3gwYbKyGA+bw7oFR9PS3I06pnLJySj9RSmqf1YAGmEIueCVoddGeIkmXdzAhYNeRuusYKhwcUxI4pj8gJXbVn1+Em8mdTh0auQ0BS9UxvQCWVpnyTYzCW/XRDccsbcu6CScG3skfCl0/RbOyLBgGxvD/bsLF4tyZNgkItqQ3N8yocxm8xTluXJnyjhw0B92itadNij4KwAfz6w9pfY74oymm/vYh+a1tQyjLOV0pfIHx50UQOFnP6PrGufDDUkUb0oJCxTes/P1LiJBWpEQdOj1iX40yJm13nShwqsnXiKJCs6mayB8Wgylaqs95RZ2WwcK6HskFoYo1iic1DYy7pBe42cRwX4GUm5Nw+k5cC5vbn4CbarRlU9GnSwC50QgW0uE2O96UghXZEIaDnxOWORhxUOmQnt8LPn68ulSlbux7YsS3Mqn/LojlXwj4f+3NDbASCxIVdeVVyLeGULEICR/ppN0oCYZeyTAvbJrAOW0PIpKKQoVod1T/ep44CoRWWNB6I2PhhfCaqndqxhBSIuKYVFHBWwpSmCd3rkzI9fCjtpY2w/PDpJXsEg0m2O7ISdUy/0fHAoNE/1GC8A8DNKFvccwecIsinflYehPdnLQvS/iih9blX+ilkzDOvpneKOpv+AA/rNIGL8ZloWHUV6aYcID/crNxt823ZyhR6dylzIpfep424j1xDDqoEUul15xe5hkNXHW838Ui3cbTywqKHpfX0bcoTITa3vhf3mL8bVen+PQubhcFCZe3d1xaQEajm2N+VhuI+JtcxvG8pT0YA8un0NVDCxToUBzbFCQD25X8ljW3/B4B/+BzTFvwa0xoOOCdIUq5ouS61S38nyc+Lj3Kl9ZssE3IM88uDL/bmkiKYH5GmYLb2trYJdM2g7EKXakr5I0j3EXceZTNBwxrpBICDrErUscIegBy6+5SMQnwJn+tbUBTwCgUFJaYQtPiVWdNavFxJCY27BH4GtzL3RSuH6LJTllMM2mx6nx0QLAAK4fua81ClNTaDPiaDnczieJFdbklCDKcT/9IKIHF8GXyivlp2XHHjiEhNlqDiKqZu7mmK2qqx/fLm2xJRQaKa9HwlRJY7TzVwsuvYd8vh/4Ye9USJVt1N0CpujeA9Tw95XVIBSD5gnINsOyKoDsoECDuwIuG5TJaX5CUltD7BDktxJ2NZ22y/63mR9HHcn1ndYT3JJqmUD0Qc9hks9HCkIs874DZSsH6KxniQUrclBR6adCgZ8gNqA3vKpei8Ksxl6co4a4Ov5wPhlggQKy1u2QOieV+OvrjCFiJ4LUiboLT9V492xB2It5cvroAT8Pq4hnyQUIkGkh6du+GPoDNFvF5j5p4+J6nRaE5UNeau1ed9trZNptwTN4+eRW8Xw7/BsVQ00ycorEJeZEq77Tz2eofklQdgT/LsdmRSOo+Nti4uEg/9OzeIYWdhIHF+AJZJvnVX0UHF/9d9qB5TtjB4LdpAiikqBpEG2oo29c0u8x1puRhqmdno5VgJJTRhXsgiv4rgJho4/E/ws3i/E6fXSHtC3bR4U0KUme7QM8IukABbzR4T6jC6FftrjlgIzMHiANjcTdLtiXXg1OJddPSdjfzGnSQiT0jFiIp4vh0KicmufL8QnRXEeZUDnU3o/He4S8xJZv1qn3eurBdy2VHW2fVCz4VzEpnexaLgvPwIs+dkh9ogl987CVQT+B4SR8GVB+0XsrbcG51uV1MhSP3tBJUvPPMx4heUn4RVds+7Srn9A2mJiX8nDq6UVB0RvLuKGBpWCekD2f2Qf4XLENsf8QfBhpUrSHglwhPYWH94Oq46q1hZ5etWi4M8vlLy/R29jsQvy9B5wJwrzX7RBWwfqlfe/DeLUjZBmlu8m32iyjo1bdIv+T2vumJAEwPRvJnKZUAclMounfPGufNRS0ADM0bTrY1HbWOpkN5hrKtgdUp7G6dojINXeI5ChDqSg/fRvvff7Cdx+ToRVLcMZh/TUUj+ci+npgtD9ioIKV+80BQ6/QC7FYxsOtxorhoBN/0WwsDwZRuZ12Qac9ipXzZ/88uKkQkar9rRk/l3brIb4soWPwHx01jINKNFTmSjT/YtYwTGSxrBYOPdfBPCYoga1DZBXOMn0LSKNOTLouVb3bRswpzuQvWHBQxg2NJXfbRd3Cw9UEe3ucHZC3Ynhng2BpGt2KBp89YErQMDoj9DC2OAqGtg20jds5I1GP0HOBVuTSnDK6E0tbdWCmJ4hs2fNxF6gB0yYvTUpyOoT9cznSD+l2/LKPgC/SPXRUpgzZPQHOqkEeglVov8HzJ9xGbGPxSFhy0b2FFzkWMJigFMa5mjo6M+qSWaeYwNvO45cL6BPEhYEHusDVGcJoEWa4KSHhx0yBQCxFenZrS+/YnXVDJqJdm9Tx/XcW7iXCwYUHYS2HXOcYvLufLUdVPHR1KvG1CxaZq+NyOpPJ1+G3QF5H8lQAFctp22CXxWOuHzJMATqPcf3jD4kb6TaQOkwvBjMrXjUoJR1EM/tNWttNYSELzSUgH6VBOoPOQff5M5ZUNyx60cqYHp6x3yG5wV+BwHlks0JGPsu/tbDeqMNkFlfx4KhCpA4IfxDAttR0m8cOjAbsKgcBVW/XdSDZKEi2q2d0tdkCKI4kq9arfyX6h8BRvjRQSH0eaPKgTqqU+FNfUn6ZoeqC/JZVRxZlmn0u9BK6fEX2sxK12nkU22HJQDX4uM3hYfkVrDf1isuE78JRkHZKL5kOqxUlJDdqqu/JUga8FTMtRx9JHnMELWAfvFHyx4CQrIGcBTfXDjyLBBHqp6PFqvdTGIOzKr8Sg6NM2mnqicTjE8RAbSTEJyk4GBDKLiHk6KyvEntu9KB+Gpg1E6Y94NHnkMsU/J4tsQFr+1nljsldtUUVciEErClt5ty4szVoirKxs9qCHW7/FgJ4g4WLLh8X2S2qcxHU7TXdbIy4oVKQu15nnLxMDKO0LGeJyYUURV8DJi4ltT8D/ne7FJbirH/TmbmFiwJW2t13wLUQh0Dn6nH4126WoCt+qOtKWPi37oW3wy1W4ZKk3hzb90huMfkH8oyKg9b2qd1quNkWESqMGFqieRMCBBHyD3wAwCEaTv6pHnfTwufN6ttMlSMYN5sws0B4RIGaR/I/ftqAdXkQPf3wSYo0suUEHx6quSH2i/tWZdVFHrKPZG3ksCcoPx7DCW7INPDiGzT/NmhHZAQ2zVcwMmkE+4gu3+pVr6MbuCkIFIEG9tht2LyTJOwFYSiZs3xEiyLPRcz7395Cv5JewNJeHG4EGu7Brqw5TXf1hlQsVzSbjIeKUpjHmN9q1YOv7LCf7MuW7bm/Ajlk3jVi1Lu+vkF8RFZ2jBsULp5P3qJ9UhPFLcnZci7hpDamaCjSxYCGFFCQKsViqhm764VsVuw7H/s33C3OZFG5JbKUYRYVMAkgzX6I8nBDAIL9pAPFvVM4vxppg/oobSAKZHJPcuqnYa03xkYgKhuWASqpnJVoq9RUJKrF7HaHmbqhaW9Y+ypCyEMoSh1B+30XonGvUJ2AKCIw/1/our/6wPqeN70IYfaLeE6AOfJZNEIYwb3uHNaoaCfi19jgaZz8rYSiV5ez0uj8MyoKNMNyHJ62I50vmYr0OmwE3nQ1+cfbwCzbD7QJYdWNHXGkg8SHUL+2DcIBw2+YXbPKy9Iw5UE7jZBp0CR74Uw7VF9WcYuSUKaZN6R169tAxj7N8nk2pZeqkL9NSPHVng3ZllkwDIeTV3/QC5efTQiH7xQPgJ+NPp6P0femuKnqI57B3EGUe5bmLVN+BulhFTn+JnYsImWibRQyzaucV8jK98fPXztkXCO2VcKnQ2VR0Tutav0tI6b/q1b9mtlArcY3xGTfpIqmY8LPnzWGlWlmcFC0c6dswVW13sK9x8fYxyBtHYUmLVa69xiXrwzVq1n+AfskbaEYCFlAfXfoWVQNj+q4jHtFmMnZmDXcYc5nvOpfXBV8JxanlPH5AERSTBloMqxzl7bueE3GiVZUn7T9YoXfR84KEU9D9cUMPe00ZVzyRNIyN4O5o9zBrfzB5BdP4oianbOenfv1YJwGL99NvRSQO9P2HrMLPYjTxPWz8gq7nQZhuG5kAj4K/+FPox/aPAS/Ji44tD5Jg3dxei7TkKKSRk6g0y0uVMNWzs1/QM4qMSo1nZbtDNHc8XUMwTEM0SKYvgeL8s4O7LyRZZpWyS4ZWKjzL+5vU1G5Z07NmfuDlc4heDcm+owFa7jCjaBzWQIty6HY1AXzi3UUllFjVicdgGHt3n0036gwK0xIMXXJnI89lIins9qTQYUEW5cC+sLyp5g+Sllgtp6hl2BJs3GKUpHT0LK//nlv1JQvoW5XR5qip8FrGFLSQSM8DpmNkvOWah7bbtIUPta13yPMQVabmJW4l+7e3mWMIa7i9fFTZcRrJ6ZH6wlA67yFhfba2b3p1yU5c7SkLLQRrr4u6dsXaPmXAt3tmVXky49MSewvMcnrNaU7zWQlJu+VvAg7iQnmPyxHAuM41RcLh7yOQwKF31ss5/iEnmV0elQQXK5I4ZRxpkhYldOwv2Jll3NZG8CM2S+JkW6O4coJ1sx5W722HecueUt6kmZV2y+DqzTzZ9DenVXcmojIxOH4Q7qUiY0up0t+wwL9dVX8STk6v17ijaVpaf73XNolx1xSCr1x8zJ+hnxRLn+qx3v/Qh3x8lXG5B+1MwuZIcC7Jlvah0zL/J3RGtwLJxG91fJyRFYTQCMm7xnK767c9JalXk5bwtFSZNdfpr8BLx4D//QcCLb953MbLxTsFTKlbAdsyPBT1cvHGn+wO+ylbixINzF0ZFZtciMz9mymJjth68Tfv32ZwbYOfr+VDBcXbevboWAFslc32PqeSrH0eh+5Vfrw6MFO2NiBQyXvtLtWO5G/vASmcwT4l/f1iGkltfJ5I8tQ60hCVZggdzxolFOosTuRGfqU3ngB8KLiSMzliON7pvgVqGX5qtqKDp/vFoPQmSwrJ5USGm//x2Y64ggtWOWs3N7l6E+tfqjxGQoYmRZoOGTakf7gXKV5iSjd1lkclmdnwyD914sKxWBcwJ2D6gJPk+4tMXl0TPsLQzpK7TDcKFXT5HttCNhLKoF5Nb8yj+ArTL7JAa1JJSXoMgnvXmNyc5PlR105AL3EspW/F/p/ClXtWSL4z3acUGz4YUroIls+zExAHNgLha53nNKcOynmhOAlsn4qPe9Ss8v5z0BPfLqu+aor3RVpt+oQWNPKtXzz30HAum/RYIyr62rEmHoHx30MtfxFEnWYPkaL5nXF8ol7AoJg+gREKFhJH3Tsr+q8q738ZO64ij3RwGlgUFl8ADSlUKlZUvscoKC9HNxgzIgz824lXOTOFQd0kd91JPf9XhquiSW1h7ffTf/+BzqaNyrJKNo48bOFuJ2YdibS+JKnVwX92PhyVNzVgRK/xF+Av7EXZXoGGYveYPxooxcWYkJX9jk2CYuFg/hmET8+h53Bzq7G9W7UX5qUTKqXlD7mwDxFqNDwwKT4EMfRntUU6Ot2L6dFdHqxoryzkzfTuJFhF0Y1dlh3qa9f2tHNSExqSZJDumzyh1XrC7e/Cs+MsL120sU8XtauZuN2O0AwIxEtOZH8dBf01rRGCEZmtG4hNxDi6Nd3g7S1nYPoleh7UfZCmwKZYF0ENOPYic8a+L8j/at8eQUgDLbzptSahV1U+Z9cfiZiLQ7o8cXw2C6tgKpMkypHi98bxn3wWPdPM481Q0pMu/Ex8T0i6lxP/6Wrt0JwaQ3z/4Fado93WrB8jSR5Vd0gMbmkQsU7u8ldwUvnNZoT5H3irRiEkg7k6sdwFb+gk9qImPzjFl8e1hyuNtMrKeLdsV/uKyh66qv/uhpXXM3os40y/nUEdW/zMyqRmTfag53ns87WZxRSuaqKQz7yBir8jF6Ly25nO42OqlsqrE4H0NvWn4fwumpiITYDwygmWdR4dpI1/nQhLBnoL+QfJt4GeYZMFYLt2YgAV0nBW7Ca3X9nXOl4fRqeJ5+lK8FMk5jl4Y/S/p+AiMdJPiPQjFrJVfxq9tm9Bg8i92XhULe+xgMNad75aO6/hAr7yo5n1BS9RZQ9Dl9uxatxZFTLJPAhYlIpjreA7jkhL4cQfHWMxRR8RsAF7am54jZAkZyDc6VQLv07j2G80nZyfRJnaoXl93dCXs2sw6Lny3kiNdh025uyuBWhDoiuAM7lRUsNGNKD/saufgv1H6lMYjdQChH2q+uYBfigYe5qYCyD9EEv5HryGjjoxvnq8F01m8AQMObqgVLmdCQFBR7FK3QEamGjDa+WKADZ+RfCJLRtrGzgK1i22NrmDR7spAdVzYbMCDkU60RevVDetAWDwV0Qgh7yUGPwoYGlJnY2WCtEkaKssBILuu9CGuuu+USnNiPWAaIoDD2bLzhFJ2Oa4PLosir9O12ussBtrseUqCRYBVxeIk7P4Pbc+QGoclUL5Ke5wev5QNaw6dwm5ANEvi0CbEO+VldJRBshmvguEXsbO7P8NTpcgFSRkwIG6rPIsK3gwku3xHicEN5RmUjUU8uqGGlqvHo3DVh92L3JlIpsE5dNLvLL21XyQghMqYavYTqWhSHiFAtoc+kE4HT+C2fEggOWURsfk1wEjeeFS/WE1xBSQn3F8Xvh3zKIF1YZ/RV0K86tDNXybH02MzxdnJkdQOtUDCiWErLfv9agPYveJ0ha71dq3kj4h2z7cWkZ0ySTP1J6Zxu3NF+RHQ78vwLZFVbs1Ue/Kp7MZ52GH8lSiBfj9fq61aqPbsK5quFaWIVV6RVtdJhpXWe5BRKMXMf1cbM3oeZt4OV3uAnn0qKsjFnTzl2Qfx3rCG95z2sZ32InSt8zq0c3P0GQJVk+E0uAWGCTF/MvBHYH8Eim2p8kOTE0+t76YZ8JD1DjscozKxpxdVzcbRQlGQPHV9p315RVmLOPydKG0819pEo0vJqXrDsOFWQm+8X7Fe1aflODEGhzQyg98Kye6T1dnYX/yeY0PXCwT/X0DzKMBA+qXFx4lRo+gyFcmym4J0GE9KeJNaV6t5eT2kOjmPH3WGVrnYMJ2dsI4BTKhjkrXuRkpM3ZyJ/tk7sxQBq2K/qnZbd+1AaLwh6rpoJTMZZnEtcDsrzYjpeGAZV0bQ8DQxHaixlcWhsH/tmPfAt/FuRgFwXdKoFCR2yJbcje+XObjT2hnybyB/n7wpHYL2UpC7y8J1pHmITO2vqgqyrZ/ssxckZHk97WIDsmN7i0eD2hoEKaqbDd8fXrRg17vFPM/17piXyTRjkp3dkJshS8J7euiSK7ep4XVaL/u2es4V6Myhe0K/cpb4IqvriBZQpcqaefWoxpD0GUFTh6asib5alZzFK+35Gkce2bF5tm2HNqdoP+caUfaydeKYGDkscG1UyfbhfQV01XnD/3NCGQrxjRGZ2oSr7aNVeoDltSavII/8irTA/ZVcbIrTinONOGcXQd5QoB70mXF/ScHDCQS4lZiQOqs/CnRBGz1wFykzhN9lpm1NNzoEHvC/0s+W7qvadmRIbxjhIvKepFbKbpJg4t/G0e3b7jpKyNvdcY9w8OJYABAvKO4PSun0/riR5z9yqu+c9gnFJrFpBqkSFLKtEZHlMVEfMjtfzH+om6/Xqcwzfjjd78o5uQR9UIU9ESJ88axCiNwumQOufqYzgwB/qypV7xccW0VPbu6AAI9wiGGxnsuvzyJ1JNEcC47frt8rPFuDre8snUerxHGMdxDv3b1lRW/56B4gDRTZCfy/U3CajZ8GKxuWL4tUUvS+cmCw6306WXvXvj5GUsPGh7UA6CWt0AueRbei/j3mh/uZiYnj5nzZI9DAB8XTT8G8r/+kIWAFOKeC56otEcQFKf+pk6rIRacIvYUrkrF5eaOOkq+cfTU5aobd9eheGztesWeIXTg+juYC+0sJ/N7LHqBBNZWSJSliGiePPWQIKt2ibe61NyUnJ5HAmVS2ZzW9PJlyYkmWEiIhjoG+GBJIO3RX8tEMcnoWDlkUW/g6UvqYjsm8glMtT/Cx+awN8sc4tlTGal/25SSEiUSEj9k8uINGVzsPiWD+P5cCJEtfiOTLIRUR6UgbK17oG+6M9Zg0CpGIwmssz99gCL5EfHBYk1EkOYZg90PxNYC6VlAi92Mqd+yx5ryRPn7RVz939HVaDJ+ZsHEj5jjIKQpCj5/OyG0COGHbDrfHrOLIESAXheDDFNvYoLgfIpDQ5A1Ct8Pc2ClyY/WEixeFR8hlROCY1W2bqpxWJT5oscj/uQ8tO4So5ZkPKZdkPZj6UbUeOsMeJAeXytXfpN2KV/OFkqCQymntOQJUn1mzQ7KPZ2t1Aw0fJNxHbNqleqqORRHEWTEfs3N0Fld33C0Eon3cpUVGggbjWr+yGOwQ/0yW7YWW2e/EfQIZLsJCZ0/o0JyVGyaNsmDb1s+Eg3Ik/T/JT1Lam0IEDEP+fvGjW8IJ86D7IU3E9ZmgrDrveKrKnRpS+0c7vLWF3W6qsuM3afGLf9Fqll9T8PKlh3+IGqWKhC/CF1NY8V1gMgz5qmJGkfz1SEKQx5l1JzXy6bjhnZ0NdEm9yKGdRY75Q9iaBrBifpEt0bfqsJnra4ciKKQKJlHrwXJkUavSZ1bVB06Hm1NMFEQpjmSrvm/lbCKo+6XHNDyzpl1Ig94Ku6VpvGfAtxnV1Tj69TTaHf39MhgBE07niStiKvB0XLZZNn0pUtLn63s7taq/MpWNstEJacFmBEsgEzLcTmfNh7/gbBcBKvhuYw3qKcUq5kLnQ4Nauc/n+ryitdDDeMGxsiNOTUfDiq5EwXkM5cfLnJ+Z6oL/dPdBGJZw3ylQNDmXcHxbIIYxlFqXgPfuT+7j7bRE16yGoUACwzQQCY/D1bbfGGQ9vZcYgf8O0PCiU/4IeYWlJS8A/zFio1h6fQiyAimxBFJQuQKJQvCjYm0B3KByzSZqF6D3V1ZFYndWY+78XWy19atZVjDFZX9qj4frf1NWyutj+8C3YI0ZA340DcSy6lISsLQFqBSs36I6uoKylseJoD30+fg5njQJpBPk2SaLJB3ecam9grdguKcDxdsJbdF9s7EtY/GO+hGtcNHdLY2a6etuYtXAdeUhLQXJMAQHoEKRm0QGpI1GMiybDSFl2wV0mIuWXau5FSsh9nM3kj3e6dfGEccvReYbu4Y/tezjWM4fq9p9iv0M7Y78Atx+SRlcxJemoQPOxuHBIhGWzHC/evttYZvY/ZbjZa5IFXUne8iPHeLe0QLUhZaKzUr62vz9LKj53FoAI21T+Qqb8grFpVO1rijmRP8ZMOWWWumAnzxAZDse7BlmdSsXSyGY99Bvy6KlzO8hq8/dt1wbog+/EGBkBtvIQHkAwDk9bChA+IjLl60X+EC702049TgwG60V2QepGc37zfaqPO4LufaQfJOshK0JtGFt1Jbs/PCj8w3HbyR0xoN1C7pCp1dZU1RuzL5pmaMCY3z1zltEVdWLerB2jvjBdnKQlvyokUmgCeWQSioHYQuvFUEPf+IROTdD0wZy/Me2y1c6RGvgGJuYWzJBZb8lqe5QA3aoZ9o0HrHZhiGqnka5cvZE+gmX7gYUkXv17lW031OVHmDGRsFu7g/P8RpG7OtfI1gk1hZBUDEEMhrxSdxNwl0GCi69+ES/btVWTFh6qv9DOTeyHT0BRV+sYs3BJlOw4RCbEeXAqr3wBZaLa0z13aq0+M0/C3bPL1bTLB8HMpufcTsXr0+lBhRZpWBYDi8jqTnkwL/ONDKWQCpN7hEfB1NMgHTTSur08o0YbShNA2es199Q/uR47NZ4bPCtJXCy6ZtVPXpldqL2/4LZP/r759Tp2vJipR8cxgVnH81oJ1QKO/fldPiv1TG66MRIAhDQj0U3ioNr4ztz/RZmkSajDLlz7xyBBMXZv9LsfuR6EHhWlYuOMCgQ30epqL86T1Tas5F34pxi+pOobsN794F7v25Fbw1WEa12bd9A8kIqZWxzn6SgB2Nopqqym8bLj8vt8uGArsQvXShNbXxwreXBJA+G9PVyJzRsPIxqYz7zUjZMIY7r/cmqfWt8GGrmmrqwTAb82lcAymNcmsKqorhBaxQmxU0hbvXvCrvcWs0lbYz+YiRsBpd6Vjyi/dX28DIXknZ2hCKI2H6yY3mYiEqHSyHpc0aCVYOAiAkPfl3e0GIKZ4whaO1kNHar9Erf8Ttm3ZWS9FjacdFj6DSWns/d8uvmwE7neFamrO4pqcjyu8onG5upPB45AK58BdOCpE49rL/iRPYHtlb/Bex+JBtM5QtapmMkQksAH3jxVwe3y0Sc8myxbcFhnvcrRmFmraBnlqJz2h6LT/1YNoBO62Ac0C7ZDExGpNEwumZ8MFP2LWZreW03Kr2dHCMw9BF4ZRLvBLKX0+zjFP57DEzNXd6iJ6TwQdXYuYAv3y8MLRPqSOVIp9ZKp5RJIcfEtIbmU9vABWdw/aKqetKM3mxKe39w4cj6mIy91fufaufiKB4mUdET4Gd0Y+RWfvvbRkaGx9hoeDkv8Zmi7n9NMvLAEvlGFkdleTuYGEWqs25t9Bux2dcKKwPIxKtsUqTaNSTFD32izrxv31UVtaloKtYO1EPzw2vTN4/1t8vOFUfPXeSfw2vX08F54kSp3R50biVPkff1HYGYpRKKBeltwQwwhQUgTYGIRj1w1kG7EG1m4lWLc4otPGLRymEJCx/qInjPbDTXiy3hUBd/IrtwqDnxAPeJby/dB0VzvS/L1tHdC6xatK2jIsxnXmamLkDyjztTxGikd4CKutQ9L9ZZX6K/un0zd85y407fJM/vGgOawAJrCejR2q7F3D8272sEGJD+Yx00eyyDlTlvvmEbWUNv9SDkMY+NGCf+xLeTBPAC55mBsnIEjQVX7Dybf1PdT7oUxoCT2AiQ+M6h8IMHPhI8Rxel8AOA0riM9A6IhsM09d0/uNwPHAVDxqszbD2VF1Euz4yk+wmJrbwfyui/DNi1hGxv4nRjEL6p6UcCaKvnrPi5gmj6qHMgeafoJPEMPS9QusPch5jD8CFUpYmJyz8WNxNVgxmYevMBHUt4Jxc0ABCZ/qb2H8Nvc+9qe9ITyD3gjA6KVnGw7rnPqs3gDWZmf/lQek97LnAJYiCCc1ARdsfzwZtu+b9zn/Ia0yzXR5E8zo6am3nH/hTaEowpjXyt91gf9zJOotrjva5CMfDbaHj+a9pXdK89SOWVxx+GF1W6Tw15QtuHcJ32hleZopnBYiEedocZUV2qxknmFIubEQh3TL8EOIZnT89MU6uBcFeabYdGaOjbP9O70jMjt6Eetp8I/2ikZF4+Mm6UqoLDcEmriBn9HVn6uzKffgXeMpUAP1+I6ZF0FH3k7wLgKYFGnkuOVBU79GJDHPgE+eeLfrTdNy1r+40xkmZmBeDKbiLy59ksrGqdckJqy3hdvsDNTU2OrHOEsRhqf15M/cuqYxmMMTX3p3g/E5b97XjyNSsuX4onSjOFv/ttqWr5yhm4J2XV8CsvTnm5VO+mfVoV/Rjzn9kCZYX43iJZCEFRVITONZpE5lLgYzl7R53h/EgwW6v+bSlSs+/mYfO7HCXjXajgYZ2tDotoh7yePZJRgc7upo7atBXEjy/mdrsSbYLfCLJr/wNx8HAAyBcdY8f3evh3rfrbVWy9iLQ8UJTUq774Wuu8qCoV4otTBHvCDNL61wTB21O/TEjyGgeRynoz1J10x80t+7qCXBDytaBfhsYmdIYUMgqb1UB9VF1BQBjrHDJlVWO4G2E58Nith9HFV8dvdaxgXSmvIhfEpZq7uyIxwtxX6GxFtRCeS5fzUrogAn4IQJICfHD5deoWK3FMOSwKZvuB3MU/ZPwdL+cTVegTQFjCmLN6zU7GdEl8MZaVp3yGY1umD/7ZDKrV6dzc1uVnW7Cqa3J0b2lvoEgVQuPDwIEq7o2yd+GoTdR2QNlqRWbV9nmaeByrnhl/FjkcgHdSEw58WHndIYnlG/OH85Je3qMW2AaEbQEZC9ZCdUXEIivVrOW/xW8xAnmMnqGUWFbnKD+W5fbjArU8Gya8RPJK9EtkwXBYqjslh6cTr4Ql+/tyqn0iXSBNCnx8QuB0bq5gra4SMMEX/35JFb3izOMesu1rgnEsyZ8dsTp8ww/6DAFdUJPgqapDxDYWVUkU2goXDHKQsgSx8FfdeJVLbRTs+TcwqUGYD710CY1t8aIDDb2UgZlfzzbu4NN52fTZlGwU/HjObcF9eDOmyedgJ9+50dZS4DU7ZVJU8Y0vXz/S1AzGguAdX8xG82P2zAQHP8YLDDBpnnt0HwgvjldAh/ycS138C7nDnF9qiPVOek0ErkizCCq6QrSuEbcegTtU4WVfa/Vdwcy+IaPrlmClvfXhwvd7smeFDgulf59bBPiMPyV1C5iU8+J8a1tEETLA2iXuHBCSj2NfD46n/mLRVnldc3iKKhOcu8Pf5eWtVjmLVn8koOTQden1JmebrDme2s5bN0fDTeFJZr8bJl21w8Wvdug8TCYFUQNRdj8RWKv39QgMiBxi/PAYa09dRTA6+TDNiF/VGeCN3UBT8CoO7ZQlvMcuPP+SOObqVgIr5WeuiZdpRCebkT6nReIOvoc4l2/BERK+208tNcSxVK1TQWP1bQposUsfed9xiWdGBNOzAhnM07M2k6JcSao4QFhCDAC2HFL36CcHPBwsCJHqikI6gZOi2bOuSH8nhNJw8TIk0Qj6nvAVlfuRfZrn0NwqBlvHwH9RCH+keWEfkdOOpYuQuljf/3tZLA6ktxX3B+5c9nFrcG70k28QLzU1YCXgFjXu1yObdAym51rNprlT07vs1lfXpPTKzzt42mb5lmzn9aRcNW8Bdq7sJ/sbKY3SHD7cWGcQAacJ7VbixXMBMkIOLIZhBS6PLPPtk6J0WzD0kb5j8QtLMOyrZ/itR37paTkpDL9iYGVBbkMHYRuUiCLZ75XLLrTXpV4jAb5cbBSuCpZvliecNdIYPeCLQGTe73onj6LifmZbESnoZDr9ZBt2ibnhz13Q6Z8j/UG4KQFp6eCD5ySmYERa7nGLOLJi74t7quPeQONFqmlbOKNnMln2S8xxotlAU7/WvH09RDcDoznqROvgSzkiy9FsN+Hlh6BHqEfB252qo7LzQ6aY/KcZpAmFrw1jw00TVqOnVYawTmPitn1Emp2/QAQuijYhK9ehyj1ICh217XAGdEW8PLhtvvSZKODN/KRq9WsL048Fk75k9PcDESLY8dtfnsYb5ToleqoUWpROwHIZb5VwHd6m1G9wTQu8bfBs/VPD0tXJUyCKw3mn2g5cA1A2OkiTv4CVKlVJZp7LROWn/NJwymFlPa1VqJ3cK0MqHt3waJRugKgnpfz1bN13plU40Ourr7O1J8ZegG/UDZwVp4vuw86V4CWhmg8Dz8rwgVtQEVScFXKP9Es63hfaIOY8us+NUACA51N/CxuJxULItVOKDd5ek61j1pisyG20y5I8h65dKVkU5bsMVJX5LiVt/J6AouLi0dVj7lJtfzg6QEfRzZoRNFIm5K3XvwhxObgYqQys8boSrDkgmT0pQs6qL4rszEYH+JBq6iM21dQaeAHgfdMwLv+SCh3OU/OstDOIE53Mmnywy7W+FE8EY/VaE4Dj07bG/SIyu8isFZJ3nOBFmj6oYQchJHRiwqKX1jXszST5aGBRzgnCSxeNm3qEJGtkfJnIwZQS0PrNud6XwCXNXRPu1NwB8VzNyL89Jm1B25Ddoarkk2IcnfejOaGNFVhnmhFF4T58JUpzikQ9ElF79IV42ft6PLiSQqpBHi8WCztMGdsGI4LImVzzCzFEEIqgzNvsXJNo8YIPlHpAKRrcNyjtgv2rz5uhDCGu0p5qTeCr5a7lqx4ifUCGs5Sb8e47L3NqjVpVBAukdiliR83KXLXiRPezWMd8qB32NyDUW2X5+sQM2JxHg/VeGcH9CPnRQ3++W1g002tvjTeDDjgdYf8hfliIofVjWOFyKz5j+KDB8YfT5VnZINUCBnaC8LeNUIWWGeCUwTM7WjzMJ5w1scYKyxKs0jlYZ/h+nvTsf8Q/e5442t4Da1AaMLxww+ZK7CN8QbAJ9zBqR/df5Zn0C29HidK0bmF30wb5xoYKGkHWusf89ER8bmZTs9SnucqOGsX+26efQWNi3fZALQsValCox4Vy/brHUwFmAVuwnP5NcWkOsDcojyJ9Bv34arahCj5x3crzpD/4tiWLqmxtzSbUnpzxhpvtGSeDQWxR7TvAXgTYRyDrO9GnSZw+OIuwDFQcgkU4IuqeiZDk6UDKAZiTxuQQUL+e1MsBeLdICt57HJNxnEYhJngX0Ph1TGQDVp76US/tjaLcMItnQLVPFJTQ3X2BZR9++l4irJOcywmm/r54XdiEz5WaOfa7PAwf/N1s8R7ONREWhOotSZuaeOen2ic5kYc9veXflu72oRdCuHvihwZa3/R+kJUwth/muImmt8E0mtcw2/3rBhPQULuis6yrLfe7mXI+NJHjikRWXiqDwwA1sRjyTczxiCjDsJOfOtQMTQwf6Gm081uEZyuf3nsdptVwmTOci/YnAP+eX/k50gvC1SIdvdGqc1T4g/JtZLIkCRsSoulGrwCiQfLW3SUH/9dSAr6QV4quFVuZwDtz2ONosO7Y5A0DOOLfDa6E0/bLWaYeVkL6CJr8+1oMwxCl2scqcm0V/qerGEdqDKxv3qBiwjOUGMM/X+jpDF5ew/EaF7hZGJFvDWPq8DeGZHamLpR6a6vN9FNWnXBpRRfg10XUxtLtGboRLvRQNobcwhkQ9ckOWYM1rM6wRSpMzclffP/8/AKpUk49goQSAO3BUQfPrwf47tOxPNp6UySdDOXXOO5TbqdTzfon9BrGTwm40VM+AVO2/Q6dWkr1Q8qctLXKhfOTTue/QFicHUWn0LSh9MRJ8RnL1Pv8koH1D8gKZxnG9KuQoUfU6dI/U/RtGccMw1gadvXkGryEvgaOVG4uW4SdpnaahhX0fHR0UwrV9BUdzDWchySzIYQ2NK6jX0c09PCeJDq0Wiu98dR9eavXNdPI4Ir0kzI9qw+7mfcrWG80DXVufAXvVT5uaK/xWc2T00pX4WJ8IjUU7jbYklhGqVv+gQvvy/e0KTB6LjAZExNlNDlIzHHWP7mUxz70cO1o7bbqmK2cRbmhkUTCBftP3WzyIpCvvMRzy96rqKspbGLkxjS3QH5Y2YFCSMcFwZDw/A8VkIDXX5RS2Bw2Hn5iC3+b1Jf8bF0ZEi6/oN8Ez4IM7cmIH3nE3XBKa8LIFtC22nsJCI2hUiljGjLZ2IOjbLoSNgXBc/Y37ZrkGmkUADyhN1VSKTWlwiAO3DQo+HtuYF2Nw+BCp31B08VD85nl3CxhQPYISC1PtFyfs0jy6pkoi0vvka2+eTwVxPOCfUyut8Wx9Q9irFHW1EfJmm+BEx+Pr3d8mHTYPkgk2gUuddw4WaZMkGTD8Rfi6dNjccSkxUqUK50V88V09NpzGuwf/tu5yXH9Jfp28feG9DuI+pg7HYhBHN8zI1sLMlOZQ6uqFm0hmDX9RI/ggb16lbVGKqJj8JoIn++m1X1ypAM41idvzub/0/Ur0NsHAfB02sFsbDUAcLMFADpGcWtkQWvt+Eq/Guj9KLyKUOcArBUI72hQgUkzcw4BrniVi4EuCKzlLwGxwPfa6URRbqH4AK1DVwPyQK88ES1GhArr3hMG3UH694BhKXVZEZ4BgJK2Gw3yFZPAyXNqKYyxcvMvjNPzhdbOs/FZFaiAfGHQhKv2eHWFOnQbmO24QihABgw3DPSbzdqUpR1BGrtXHhh0QxYvzC0CLVJqwzILtRMESHPqYKsGln6HwrdNzppNHcdj9tThV1weEUHq2DrTz5qZt3WNpJfzXZ+MLjTH7R2P/7nIYzZlqS4qz1lhvvxGUvVqftZJhoaUaN4lowsunMYCl5zJmie/xcMf4jWhS71tp/xRVG7Uzm38LohP5BgtmQYybtRSsRWLKV7JGfP9t26nHiLxJmoONlzL/oQouAr6N9D+sI6aAuxqKyClMeq7WAAABMKEV8r+LZrNwb6Z9+do7vFImPx0dYAYMyg6NGE7kFe2vinjUvxA9a8bYFk6GbPTbGTbUY5ko0oDnuWtiiHrQ9UavRN3u0DcsvsdhSsqmji2XVRCJLERe7ncvAeFCYVIpE1LigAxDuJ5UkZzYWOv3OCgdJw5kJKlNgFXlHSH5g27q28Optyty1KuYxmS6Qi4rgINUA5hgwg11yGEgir71T/rIZD2zbY6CXnF4jnQwsfUSihBnLDsoKRiE383OFLMDPLS+Xqgk4MpqoyOPuwrwIoaD4oBZW9KKEsTBgU/P5qz+Fk+Dn/qY7h0Yui1i4fOsLPWKmzremb6tv4UV36AWV5vPnvFwX0CfspDr3kW15tMegZdJ6v08NKG9WDrylfoJYKpMeKuO7J+KJbLJtA+ubTTpanZ0PyL7D450aEhAGZCHv6T6UBcFKoK38p2kLHMdBNbBMki3BFz/XdoKVdTqRjY4V3QXax8lr90848p1j7n+L8G/R5wVdHv9Z6VqpkI5jJVN1wh05QcUT5aiiRPnnPrjrGH/lcbzyXUJsWnG5iDIUY/yikxRFirlthBtH9yqvXn1duD7E0oU3i9uPdAque+5Juws0YJRQRcWL9RfMxjKcQuAFvkA7i3u038p/dphEfOBwjnKUiyW0qXtoTkSwoQGwq6tIy31uUJALwt4RdJdq2AvWxIwjYb5mL1vTlnQBPH5SGpBAFRhGZP1zDuCQxmJuK59SbGBDHoDrBZVEZfgLVMKOvsXTrVbweONSkE0mralJYrPAH+iaB8s+DOpYIXhG+e6ADWF3vnNQ2r9xnYM+lPiiDaSTIZRLgBA4YvlOEf05sbt1nSp+sgTgNSWXrQOz0J8yZDROEGjh9/Ze008mPpL3NB3WbL2Syq4hrE3Gbyy/BMc+Ln1lytI41Ra6z2nU4viIQUo8wFlNjXey919akSu3b3C4TZFLZbVQCBKyYSgrcFsYELtoaDAtdRUAbuegAoOfwIeEkwwyhuLh8Qy5cGYmAHB3mlvOuMcJ9bPC/PGB+8TYvToWamUWwsYla6q/Q+ISrSPPN8IPxSdVEI0vi6DJDN8NWZe2wFVyaKyK0BWWSGg9bPY3F56nYpb/IoGsbXQtHEnF4Q8PhJSzYrvlW8WjbYQ8B4oxgu1zQ5I7CE6gdzMkEIvgTcBpiMM9+Dqi9Gkhh1E0+Zs/PbhR5mjv4L9Qb/njcFc1y5pVNe0s6Y55O1e2dbavDI1NR9FztGgBe6xn+8/BIMmzgtnlwvjsU56xm5X82z2KTn+hDOEAHkGY6kN2FV67HyuWsJlzeDMzDK2LdYgB2wPBqbwJqTaS27Ur5cRvAD6EVpS/W804Y6mvR7x1t8k0PHW1F4oOphvgHhyT2wyUQCupQzAgz8pPBaIRp5hdcsi3+Nd2oaE1/HmMH4d40KnWLXlVcRy3WNgzVI3wS2f9twyrke56hSaQ58AV2K6m1+h2NAh/xdfUcD5YAqKZ8NO/bAfux/PPnImflq44fc0Y00wyTTb/PiGk/F3gE8/ta8OXu81gC/Utrs/Z/DtzPyd8ycc4ZJeW7P8Le/KwtjaQ9HH7Dek8PJkr6P/r9kjzw9GQFKvCuWuYlQrGd3Cw4sMWyHwZIZBPaO1Isz5A65v6cqyn5klNSaGvUWbbthVqfUJ5MzA9mi80TeH0urF7XQdAI/u8XK1kuEA1AOFG5jID5DzOTaaHW9RqwOV4aiXTw7vGVNyxffO5GwhhXEhk6sCtGFzuxuu2EilikgbhJ4YYQiczH29hIQRU4KpiI2npVArRR56hw97HL5D+bmCBnxtJMjrFETgVi68Zprt7CqenTWLuc/MVs7q6Rtfwfcw7RSJGJzI8hviXqb2pAKAEaj4ndCiFREGKNz8SvxrKUSpsQA9cVnXruEo5ImkmORy0x/wLM3YEelDSYvz5GBUYjXDc+TUicx7nBtmBnvWqhee9MAOeufFbzkuj49x0Y1SuHIlsOHfuazM/uZPjC+83hwKV7w880hH2n1XDtXUMNVv1aE1sjEGPgLuBvFOI2eoWv2gkxPbfdbFgHk9vxYF0wMuBsjwfV2mWNNxGheYELVRDo6YVxCdEO7RFFRnkzU6sh1LWhZT/lmzoSoECLsUQrzorNelp9hpMZWCA50PQjo3atZarXI4oCNkzWvHTc8lM287RadpljOXTjnGQv8BpG1YfIO31UvynaKnnfCTlr8nvKVgNy36AIdFoqK00w/BsZxuB61MoEhhWmOgxb81wKaTx6ycv77uKr8tVx2hNo17JsNoZJzNRrP3rQ/4T+S1c6Pcr0ihw59/9jgGeenIu5kPqrTPIXsTp6bqFBw5nJAWY67hYkvowEbZy4dst+vMeSTBkFZlzRODQG9PvLwsF/2tirYRUBq3Bp8xHN7TyCCvcbhyYgiLtC6XJglJtSum4duqMTGP1W79SWiwc+X4tNJX0MDE8QsKCuPqTuydsSt4Phb4lEZxxuLAhMj+19MObnw4kH20N9vpgYa8w1Ll+aLBfDfG+YGP1JK8oQaxZ7SnX7dfBMSb9iJ+mV2NFsxXnDrmpj4jAQo3YIHBK5NS9oK7nfnzzkNRLq0CM/Gx5e9nX7dvCmfEzkOW9iYldreSPLk1oRffbT4AfCNBSWkUhZS0vD+lPBjkRvIyNjx149oEdW3PYXvk6LnLYNaDHtyHdiIMlqy0gAQSJ5+3JhxoeFV5GFEQ43HiLFGOi3yvXDA5mVUeu5WlVSFT9N2kklB1u6MT4iOIOW3vrGHUOpxm8+N3kX/Flk/6T4uqpfKa6a08P06VXBQ6A4omaqXMijKZhZdaFG0M9fYQaHXnrcjUfL2VyJGZZCyPZHnSzy3ZbnpWbR0tk5r3gT21A9vepwrtmemeB3UonVXJu2WJW/odjcW5SYld/vAtAyeNnVmM9KlN12XzQfHWGqWmzTGRwwHRBmybRjpapvU+G1/BzjblRlMkuSvx65bvOFrgwRU4N99Dji77JA5xPXkhxEfN2Kqdtvl+93a8Q5p0ClXNcnLOYTKnYmK6yQAc08mNH1ARATrOtPyX4+ABCVnfGKyNayOEOwdFUZ6YUZhJ0tkzMiP59qVOKXuoC3g+hKwxbmqeB8o1R589a2kNmtNaQF45uF23S3vzJi+AGMOPZ6sP0CL4Hipjf74LVABH1jUvTjP0x0jwWJsMyNgxVteBRJZWB2FzyqeC+7z9cYDHBUIUrOe069kM34eNOMFjUDwvNH9+m3EUJ11RKoNbmCGJwNfyzVYLWdpuNOoBWevHBEi3lB+1neP5HaH/MstSdChzTgaZtcHJXZwsC7mcqsLR6z6r7w0uGwnd/fTSA2xsm10/k7tFEcpPT+ruvskMPu9byEu7qA7Wj8cliWQsukeVEcBp/JwFVqmNIKnyqG8XrhMFvKpjlmypJFbTlnuiRZaeh9shzQzOkxhZTH7Ur9QLZxz5CK6fkX0FHWVNqolW0ugcDqALuWvwCy/NcIGyj7RppwBRppxw2GDbjVvZI8/i5lNLdRga7QMDZmv3ivwe09I1JSzyfebaxA26ofEjw+gAR/DmphL2YZDbt+5KKAW89sDE0s+rIaDyaoEYSXKF+sxHqZbrGaSPnSbmJBDrxPvSXG/0SEm3y1uIQ0f/PHgcnwBuH8+06zKWDx8lA80/gqCEx/saMG/O2C68nhQ3tTYdGA8Eb9kIvQuFEYGeVFmcCHzBAVyKf/pYMLAvXY5BSQdMEupwaPmRObnW01d9E+3LTcf33lOTUaLNMF40FlQyAkHg+9mi3TO72vJZetK4PqUZdfNcHI8UdNdbg1uDNoBZUf2SI5KKbuPGtmJrZpuLi7qbNhxfD5GWNp9QqDQ6xdVJ8p0bIdMDE/+fudIgcGy1dXhFAVVFiyHk/ingHIllFTn3j8ii5n3KMdAxuLEg9/Y92drzBdLoS4VXdCTok94Oh6Oq1FMyoo8iVIWXPiOkbEymI0wHf9WextV81RvTQVgmtjv5jQ6Md1XKeDiFAdMIYfZpzqte/sscD/ocNctYi2xJna86YFY2Yo4Toh6vvgGEM1Lp6bNzZxojdrrW5pZLxgVAI4t+Kg8wo0Sc9lR0BrP6ccO+6BgNWrxOqr8RIW/RXl81zj8zhP4EpYC7VsuxdvupB8HeFWC6OXyPNE0A/bJXN0M/3+P2iZdKt+rWs8BXMSuvcWwnznCJVbJ+fUx0sZCYio63ip4dbGF78ie8D9YVDH1vEtcl19UnM+semD+eky71mxRNzA3SMhumoe5Os7Ai4g47pQAHo1Two+scIrRZY4Kdw183lxWFNebaWvdqRhisekLwMvO5e57fLdBDvvFfaOnOiV68/9EF/a3qtVuQWil0mpqMrG2P5GAb5REHzWuROfIXEb/Gk9DHQgb5eOlqV7VtSFv/u4GPE2OzUsRAQ+4uJcqAsgVfgoO60HNlcY7Puw0QMld3mPjJg5ZNNy6vrq4kmsasR+NEALJppTBQxRvLyE4Je317TXO/gRTJwOenQ71+ZEud7VnO4NaNgJBG43B8yXmxs29TlgnSDYkELt4CSDON4/w6hf7sK3WDvoSvqsfLHmr6GazymP5LwNa9krRAHYBkx0vmLrGruDJjcBYMeajJcwoqyWiq+hxuIpEdftoc+25wIoZGW3WfrPzmJsrAHZu4vpRaT+KljCzNboCD3DSj47UFeppauElArTJ6a0KAqqpCnwYx9lo2/RerlMQJgjA5oDiN9/zXgpNft/LjHHtICLGgKlp2BucLlBV+QVee4Cl8RDX/XzjdlmYR6tF9aI12gZ445Ho5JIGb6EAoIQfg+QAIR7R+QOZQL+N0GIeR9dTDNwh0/wtM/IWgpxJPChxoMglmGxqPeAGwTfdXBzyB0LA+DGHIHN4FI8lx3nvAY0/X+cB3R2Br+p7hf2nse/u3+1MdM8TRKOwsFx6HD0mAKB3QFsmTcU4jiVNtxHqJfxQdl2tHbKyhaEghQLgZplHI5aMFf7huIf0R/9hDPgKYUCGCDSY+KLAlNP8GDRY64qVmCPLiIjC3HZT4mWXqNkJU0KnGNGUN3rxYrmqlwtWLLfbv2cU49zoF0b3wr3DOLfUU0EXZLCr79Gj423Hkq6/0kwOzEezXoKu/6CljsDSG4uhZnRlaWzfwyqEYBknGLt/XdaXVCXDYtN/TD5QqR0aR+jAM+6jAZ/5JA0R76tc650zCmmHXDQC5YERVZDMlxGRFROh1EiCCpkn+bgBN7p2v3kGBzMsZ2kOLu2zBekd9HDwAOd2G4+n0zHGHEbv22zUoiLTlvnZF83gttJGlCWcFVH2JlbsJowF+0DzyTs4uVV2Ll2PFxB8wDn5MPSR8uonzRaopx78Qqm5+lbn1XSc7I8a5PJamgqNQSGDkZi3IUhM5gb6LRqaR2XhVSIghCQHa6mRZw2QHBg1Gd4bqEN/lEh/fxpAZEaW0DzMV4v/f/pHmPrbGZw56sBpQi1Abgv/ffHPOCp3VrQ2Wo3vdsrSlm8gQ9JbojF/iS0Rd8yWRuUpuTMdlDJoIzQoG1NjxN/TzKEx1fn3i+PA6it5cy7Kg+p1zHGB0jA8CHUVou8igpC/X1svpKx6WVRZZXYfaWAzZ+n3qh3XpNhd4mBMwk6xHjlCAS87CL4vcsu8uJoZ+GzvLMIp3MkseiUaRRNXMWpDPUG1z7WTwEm1AULVoLGeDzzvvIafVvju/4aNEQ11g0+zklSH0C5SG2IojFOFDpzfL678/uJ2RJLv5tQie8JnxEvgRnmH2pgvqq0D1vEeYfY/+W9lX3IiRG9NqwV5tgvfkDWGeuP97/a7fjXyWaKhUs6arWtlb9nhEfIJ70o23rSQoujjFAxEBj0WphcWGqDoAKTrmPQ9sRum+BNREQJJd5/k0LI1lJZy71gJOGfd12Jqfc6JYWVrdfeGurHyukHstdWN++7wXuY5SUKyeOs6IRAOiw0VJK2f0S7uzzzFSajzPzV2tAs8FvBEd/0NaRDHD358kg9eUohXTVmPVZZXwfYHNpJmzlquZ5QQm7/iFMCb0anjfQI7pOEFPA7ZMuPxb4tH10zss1RGVl/VDoSir3SZgNa5bFwyb1XioTbLV5Z3mBDZqDu/E/0mpowDZ3pA8xlTJwu07PeLQiNHzpFzMcZvWQRlIQcaSyeTzHkGCnP28ovMg7orQjIDsDT496Dar+nDPNj+P868s6gCczgp+8LwqfwL7wMbRXQ67RYkzG+DQGwWJMRyj4LCxljhTFq72XIexG8Jju2aXLas4KeIFyl1ba1dhvVOmrcHHx96ZGloaZaf9FsE40lV9KTbghncDR78Y3Gy15Z04NjSxojE0A+zDjkkPOSvFuGIVjeG0bCTj+TsAq5NXQi0OEG93eO+mCEjDdSVeImHVj9DxKh/4WhGWFXa83TTXElveywP7BJuNymfsQfY9/kJmFqk+nd6x/jeUetM+jlWDe6JovMNZGvOk2SAQqBcuELLwGlqSn6ImrVQCbvpQDyS5QzeITKWoc8SunZQL8zw4HI4X2mZXi06eyNF1EpGhWfhdKcru5I/P16FrA8zlBs0jBWnAyya8tp53jvL1ha3HU0GEjOJiMRMiM2vCQuiHJPIkG15efpnTvXonKt6jUpVjN8D5D35cb5BBxSuR/Mt8wTcxclPT8dHZBj0T6Fb52l2UeEvduFDVQ61ea9jbZCnjNqTjv7DH0Wo6DKo5QCL/gAAPkRHBsp41RMe0Rq/sKPX8iEHrIy05yh9LE25mWVP/DpTPkbmgQs1cXRAPHOVtKvZiEriP7BzxutOOFWbC/z+zZ1IjUdxvFFLHXpl+PaGwrWoDjA0cPVF36o57U/g3+f5BtcwiTBSTCdSqeZ6h5GtbXqvkTIDvgoYapYvmsQdIVvAafbLo602UqEI+wO1CaDfPlbMyM6EH2839wgkgDZ0/EMRCzwTIBKxuh2BHZb1jzv7gLPwOHegSBV+xkDxBFZAjrk70ZhVkOMPLeEoyAAcpm6NVHGLiIZQEr7B5TVHuLlbu/Umq1Dts3KU1hTw/3gk5e9NYMh0vzgxar/OfNidr9/rSh5vlASwb05a/+hAe3b+PO4dWJI+EzVAXLpn4AG9yWk7cq2eNYbNWjTJwJIDh7wMVKXPfZZlbA74OdWDnRzb1myfl9mt34hHFYqSJN79QtD/co7WUhfSh9lJMTiG3E3SVi2YPb7gMAOtCKOIHqK/3RGlE/3WHQuMihch38gJFuZbthMGfY3AXVasLWu8Ky6s/V/vFFe3ufnCThG30DkxSVHa3hreZM6uvrHgfRq+6OnrwbcovhJ8a0vDMC67seyakF/c11hPmxvzC9vXlnz8CYtBkFuj6EsaOC4SX6YTVRGi4awu7wpxb01h95kxdTv8Y5rpbkdXmyClJDVVe2/kKEtuI1w1XKoXAVGa4V31/AHw7mudYYgwvQ2OcnG8tzDyvgy06o9IxBtBncTDZcDoInQmLPmxmgYpk/BJ1y+DmXomUvHdxr4sza6jQmd8TMAEDp/04Px1hUFVJc1kjSw+rwZdvQskqRhnAqrEi2Gy1wKL8ZSoYauT3RdTT0meFQNg9vJL1UH/qLaZLkCjFJHmrK7fetnI9zxpfZHqz168lMeVpHKyAQ6oqEAzr4AtVmE9pFiTEPkBfP9ucQ7j8/priT/ZbTcoMuD0A/2nS3foR60alYYba/EhT5tIhtk5QF5PXjKYEvP03Ui3bS92N0lXAEp2ev8D7guX+tajkQoBAp10pKmvVRAeDzEA8LciBMY9EDD1H3QqPAOe/5wOTmdm9/sxcN29lm1Wz87mGog1cjsmvdAGDbWYt7C+NoNaj02DKaFRgPqoH7cfnsx7EPTjM/pDgrMMTBqMvALR1kux7lJwHtoqyVg8OxQxButjGvXbTZZcWMAKUsDMzgfzCmTSw9rYE3Ui6zVcoWJ4xF0rueJTGa+925xUpTlM+qoAxBpbdtUoEj+oqt5zEz6YluPBJM3gmqkN9nGWH1E4h9X7ce/Ve+AUEqXtDi0aKHp6JNFqDso8/Pm56+WSvQiNnXfMAABN4Oyvz99lXB4R1YUpYbFvg8LNxgxmRJQ02JDvWzSmfOB2NR/8GGtI3RywEeD6Cd2Ejf/hTIVa3vlsDi9n8haVbCP2byUvA9LGVuEhA6e1yioNHUcN5lEV3HClfOLYv/NVzjNr5SAWEn+jvXbClz73jFi4ftZBZLL4YxH0V+G4Y0MluqX5PrF80JghP+b/A9OgJfqZgxq91HICOP+bHqmMrxOVrxp4nna9bY78YTT7LN0tMHI4UKBULKiFUXyZME9DohBHA/+uV4RDAIlGk9lEHXJui2bY+OqqHzBmiTyXNrXNgttvD7zWdI7q6m+CzX8jDkrMigKMj1hHOZSc2Q2OmtxYnngPUwtnWQcr/LfW0j4ATsdXmgU4SquvcbjgnwSZsE5l9nbQsg8w3+Anuq1aYEVas0IrkrAhv/quI/Ot72NDdABg0owELBXIoTqDeoJsPzz2Kqp2PAqh6PYjFup5hQlEK7c9wM7bNPTNkuc/qH9nqMyzFJm6E6TUci3dJ0tn+BWZRx00AKku7pqFz43uOcCw5M4PxxAStUPRRoy9gPdQuszfiLPbitQOAN4YTHHluvPpjZg9KWoLeGQawwk/NSNHChIV3Xs/jAqNwTlIFgWPZhFUJGpulX7Oo/phxmOPv0mrveyAwItgwruKIV81lDoM7cl1wm0cIu4bIH9y8Yg39jVVb4F0Pa3F5gkoCkFOcIzqX5LgPKaQhrdnwPlkJzZ66RDZNIJYDnY0xHGmY9tu720TLlL8E51thKGoircpXmxBsZGTXCLXRNS2HWKOTypJlzJ7xQBxF+CboJCUSa+cQX5m8NMeHhg1/qX3QS9Wt3v/RNxt/EvvVLXxz98dtblRv/eWgbUqs6rT8W0pKyya7T0XxdarEs+URdIOHiDYl5R5lY9xPKApVDcdF+dDVxgAJiv/taft2RFWZqj2yaraMWmDoLmi/FBZ5A+C3ItKikU1kDMcDr73Y3QQReAQ4SnhWLCKscvfdEPaZWRF9s/plliE4Gd+w7EpRY2d71p4Am0MUtOlugkMzVPI3NptTrCxZDcX+GqWCdvHAstNf6jY8rI1sA5qB6CNmGdMp3hNwD9/sw+RhsOgjAiRGFJlEWgQ2DhC7bfEUpp4bUFDzDZGIWvW53uXow9xqSzGHP6R6UKyHltPCM25xAej5qR+iq9dSfFLTi9QvFr9Mcxxf8kEfs6FHc4WdP6AMo/eoxdAWwKmRl3/9AcLApBURHrYggc4j8Br7xUqim90HbQ65b4kVa80GDzCJSB3D4mu5rPn1JYfbVIuc8hCvsIBV+0OCmUG8LcHC4jacWeD1GtghgO00j1ctUZ1IFL0ew7LJvF9k29ADX8QOW9TIiB5ZBvO4P6cs8bjL9X87SUvF5o0ZpSyJdgghOO3ILjZqXyrjVst52Y66E361Jsm/+c47sqIanlY3AoXpvIOk2u1XTRAgDPcadZO4W+OeO1IxHtZedmYayeGZfLaFE1472o6NxvxLXL4kW+ajganJ5nAvTzMLuj1mDx5nuPYXks7uPWuk6XWCpBbN59qCvaZGuFJP42+Y0PQgPxHrWeSdCCvHFBIHr28ARQtOpMhcDmocVP8FgQkAAAEVYSUa6AAAARXhpZgAASUkqAAgAAAAGABIBAwABAAAAAQAAABoBBQABAAAAVgAAABsBBQABAAAAXgAAACgBAwABAAAAAgAAABMCAwABAAAAAQAAAGmHBAABAAAAZgAAAAAAAABIAAAAAQAAAEgAAAABAAAABgAAkAcABAAAADAyMTABkQcABAAAAAECAwAAoAcABAAAADAxMDABoAMAAQAAAP//AAACoAQAAQAAAMADAAADoAQAAQAAABAEAAAAAAAA",
+      "description": "hàng mới về",
+      "createdAt": 1670271661524,
+      "updateAt": 1670271661524
     }
   ],
   "order": [
@@ -1033,6 +2113,409 @@
       ],
       "createdAt": 1669522718526,
       "updateAt": 1669522718526
+    },
+    {
+      "id": "373bc4ad-cb80-4aed-8d7c-f3e2cabe33bc",
+      "userId": 55,
+      "userName": "Trần Duy Thoảng",
+      "phone": "0918814325",
+      "address": "Đà Nẵng",
+      "totalBill": 320,
+      "status": "Đã hủy",
+      "date": "2022-11-28",
+      "listProductOrder": [
+        {
+          "id": "4f4bf795-1fc6-4241-8c34-e3df310baf2d",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 164,
+          "count": 4,
+          "size": {
+            "label": "XL",
+            "price": 0
+          }
+        },
+        {
+          "id": "5eee14d0-b206-4019-8722-0f8d0ec1cfcc",
+          "idProduct": "4",
+          "image": "https://www.tradeinn.com/h/13872/138728786/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 128,
+          "count": 4,
+          "size": {
+            "label": "XL",
+            "price": 0
+          }
+        },
+        {
+          "id": "17d2caf0-9cb8-4ff6-ae2b-2cfba32b5c2b",
+          "idProduct": "30",
+          "image": "https://www.tradeinn.com/h/13881/138813706/joma-explorer-full-zip-fleece.jpg",
+          "productName": "Salomon Explorer Full Zip Fleece",
+          "type": "mensclothing",
+          "total": 28,
+          "count": 4,
+          "size": {
+            "label": "XXL",
+            "price": 0
+          }
+        }
+      ],
+      "createdAt": 1669607457618,
+      "updateAt": 1669607457618
+    },
+    {
+      "id": "8c964949-1c12-4343-8ad1-8a3752f6c27e",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 164,
+      "status": "Đã hủy",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "216f779b-8a73-45e5-94b5-b64d7cce9d84",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 164,
+          "count": 4,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670241060678,
+      "updateAt": 1670241060678
+    },
+    {
+      "id": "f9dc6034-a1d8-42a1-a1eb-1bdb260979f0",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 82,
+      "status": "Đã hủy",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "c80b8ea1-580e-4b1f-9bbd-7f6ca2706c2f",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 82,
+          "count": 2,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670241172726,
+      "updateAt": 1670241172726
+    },
+    {
+      "id": "d0a1b3c6-4179-4746-8b9e-352a81a7dde6",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 82,
+      "status": "Đã hủy",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "0e6a8600-67fb-4e60-8fa4-5ad611f1ee18",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 82,
+          "count": 2,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670241299826,
+      "updateAt": 1670241299826
+    },
+    {
+      "id": "d02bf2a5-b631-4feb-b582-344381b332d2",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 82,
+      "status": "Đã hủy",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "0e6a8600-67fb-4e60-8fa4-5ad611f1ee18",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 82,
+          "count": 2,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670241432375,
+      "updateAt": 1670241432376
+    },
+    {
+      "id": "827b7163-efb9-455f-9a30-de02a1560d70",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 82,
+      "status": "Đã hủy",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "d5d806e1-2f46-4d56-b242-be28c70a256b",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 82,
+          "count": 2,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670241460396,
+      "updateAt": 1670241460396
+    },
+    {
+      "id": "80f636bc-58d2-4bce-9a7f-5e0e9256991a",
+      "userId": 54,
+      "userName": "trung",
+      "phone": "12312321",
+      "address": "1",
+      "totalBill": 96,
+      "status": "Đã nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "4aceecb9-ed9a-4620-9bce-da28e900cba8",
+          "idProduct": "4",
+          "image": "https://www.tradeinn.com/h/13872/138728786/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 96,
+          "count": 3,
+          "size": {
+            "label": "XXL",
+            "price": 32
+          }
+        }
+      ],
+      "createdAt": 1670241589118,
+      "updateAt": 1670241589118
+    },
+    {
+      "id": "db58ab6e-ada3-4cdc-88f1-98d2aeb96843",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 123,
+      "status": "Đã nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "4b477994-6248-4308-876e-f23a284fa953",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 123,
+          "count": 3,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670242001208,
+      "updateAt": 1670242001208
+    },
+    {
+      "id": "909d3463-b52d-47c5-8bb8-28ee65982342",
+      "userId": 54,
+      "userName": "trung",
+      "phone": "12312321321",
+      "address": "123123",
+      "totalBill": 553,
+      "status": "Đã nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "b2d6b005-29e3-4299-979c-31defd606cb0",
+          "idProduct": "8",
+          "image": "https://www.tradeinn.com/h/13739/137395753/uhlsport-essential-jacket.jpg",
+          "productName": "Uhlsport Essential Jacket",
+          "type": "kidsclothing",
+          "total": 220,
+          "count": 5,
+          "size": {
+            "label": "XXL",
+            "price": 44
+          }
+        },
+        {
+          "id": "152f1563-e39b-4e53-8be0-5c682bbc51e4",
+          "idProduct": "9",
+          "image": "https://www.tradeinn.com/h/13669/136697805/adidas-core-18-jacket.jpg",
+          "productName": "adidas Core 18 Jacket",
+          "type": "kidsclothing",
+          "total": 333,
+          "count": 9,
+          "size": {
+            "label": "L",
+            "price": 37
+          }
+        }
+      ],
+      "createdAt": 1670242090216,
+      "updateAt": 1670242090216
+    },
+    {
+      "id": "bda79602-7384-4aa1-ac98-dbaf3e455e88",
+      "userId": 54,
+      "userName": "trung",
+      "phone": "12312321321",
+      "address": "123123",
+      "totalBill": 553,
+      "status": "Đã nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "b2d6b005-29e3-4299-979c-31defd606cb0",
+          "idProduct": "8",
+          "image": "https://www.tradeinn.com/h/13739/137395753/uhlsport-essential-jacket.jpg",
+          "productName": "Uhlsport Essential Jacket",
+          "type": "kidsclothing",
+          "total": 220,
+          "count": 5,
+          "size": {
+            "label": "XXL",
+            "price": 44
+          }
+        },
+        {
+          "id": "152f1563-e39b-4e53-8be0-5c682bbc51e4",
+          "idProduct": "9",
+          "image": "https://www.tradeinn.com/h/13669/136697805/adidas-core-18-jacket.jpg",
+          "productName": "adidas Core 18 Jacket",
+          "type": "kidsclothing",
+          "total": 333,
+          "count": 9,
+          "size": {
+            "label": "L",
+            "price": 37
+          }
+        }
+      ],
+      "createdAt": 1670242099543,
+      "updateAt": 1670242099543
+    },
+    {
+      "id": "c910b50b-db0b-4022-b720-a9546cac0f48",
+      "userId": 54,
+      "userName": "1",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 492,
+      "status": "Chờ xác nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "59367fdf-72e1-4668-903d-5a1d486dc304",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 492,
+          "count": 12,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670242256948,
+      "updateAt": 1670242256948
+    },
+    {
+      "id": "92b55fea-15cc-4fab-afb1-307f09c50c93",
+      "userId": 54,
+      "userName": "12",
+      "phone": "1",
+      "address": "1",
+      "totalBill": 84,
+      "status": "Chờ xác nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "d1006f61-43fb-4baa-a5a0-86711e72ac34",
+          "idProduct": "3",
+          "image": "https://www.tradeinn.com/h/13872/138728787/hummel-core-xk-spray-raincoat.jpg",
+          "productName": "Hummel Core XK Spray Raincoat",
+          "type": "kidsclothing",
+          "total": 84,
+          "count": 4,
+          "size": {
+            "label": "XXL",
+            "price": 41
+          }
+        }
+      ],
+      "createdAt": 1670242313128,
+      "updateAt": 1670242313128
+    },
+    {
+      "id": "360b2c86-e231-4ff5-81ba-58871797765e",
+      "userId": 54,
+      "userName": "trung123",
+      "phone": "123",
+      "address": "132",
+      "totalBill": 308,
+      "status": "Chờ xác nhận",
+      "date": "2022-12-05",
+      "listProductOrder": [
+        {
+          "id": "792c5b63-e2ef-4a94-89fe-ebdad3e5076a",
+          "idProduct": "8",
+          "image": "https://www.tradeinn.com/h/13739/137395753/uhlsport-essential-jacket.jpg",
+          "productName": "Uhlsport Essential Jacket",
+          "type": "kidsclothing",
+          "total": 308,
+          "count": 7,
+          "size": {
+            "label": "XXL",
+            "price": 44
+          }
+        }
+      ],
+      "createdAt": 1670242454142,
+      "updateAt": 1670242454142
     }
   ]
 }
